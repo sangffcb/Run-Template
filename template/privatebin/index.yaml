@@ -71,7 +71,7 @@ data:
     
     ; (optional) info text to display
     ; use single, instead of double quotes for HTML attributes
-    info = "Powered by <a href='https://claw.cloud/'>Sealos</a>."
+    info = "Powered by <a href='https://run.claw.cloud/'>ClawCloud Run</a>."
     
     ; (optional) notice to display
     ; notice = "Note: This is a test service: Data may be deleted anytime. Kittens will     die if you abuse   this   service."
