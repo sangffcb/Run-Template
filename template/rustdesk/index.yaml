@@ -8,7 +8,7 @@ spec:
   gitRepo: 'https://github.com/rustdesk/rustdesk'
   description: 'An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.'
   readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/rustdesk/README.md'
-  icon: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/rustdesk/logo.png'
+  icon: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/rustdesk/logo.png'
   templateType: inline
   locale: en
   defaults:
