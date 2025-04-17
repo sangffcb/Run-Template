@@ -7,7 +7,7 @@ spec:
   url: 'https://github.com/Yidadaa/ChatGPT-Next-Web'
   gitRepo: 'https://github.com/Yidadaa/ChatGPT-Next-Web'
   description: 'A cross-platform ChatGPT/Gemini UI.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/chatgpt-next-web/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/chatgpt-next-web/README.md'
   icon: 'https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/docs/images/icon.svg'
   templateType: inline
   locale: en

@@ -7,7 +7,7 @@ spec:
   url: 'https://tailchat.msgbyte.com/'
   gitRepo: 'https://github.com/msgbyte/tailchat'
   description: 'Next generation noIM application in your own workspace.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/tailchat/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/tailchat/README.md'
   icon: 'https://raw.githubusercontent.com/msgbyte/tailchat/master/website/static/img/logo.svg'
   templateType: inline
   locale: en

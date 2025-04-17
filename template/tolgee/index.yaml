@@ -7,7 +7,7 @@ spec:
   url: 'https://tolgee.io/'
   gitRepo: 'https://github.com/tolgee-io/tolgee'
   description: 'Tolgee is an open-source localization platform developers enjoy to working with.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/tolgee/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/tolgee/README.md'
   icon: 'https://user-images.githubusercontent.com/18496315/188628892-33fcc282-26f1-4035-8105-95952bd93de9.svg'
   templateType: inline
   locale: en

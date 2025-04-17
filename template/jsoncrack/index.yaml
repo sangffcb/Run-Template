@@ -7,7 +7,7 @@ spec:
   url: 'https://github.com/AykutSarac/jsoncrack.com'
   gitRepo: 'https://github.com/AykutSarac/jsoncrack.com'
   description: 'JSON Crack is a free, open-source data visualization app capable of visualizing data formats such as JSON, YAML, XML, CSV and more, into interactive graphs.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/jsoncrack/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/jsoncrack/README.md'
   icon: 'https://raw.githubusercontent.com/AykutSarac/jsoncrack.com/main/public/assets/192.png'
   templateType: inline
   categories:

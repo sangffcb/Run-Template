@@ -7,7 +7,7 @@ spec:
   url: 'https://privatebin.info/'
   gitRepo: 'https://github.com/PrivateBin/PrivateBin'
   description: 'A minimalist, open source online pastebin where the server has zero knowledge of pasted data.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/privatebin/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/privatebin/README.md'
   icon: 'https://avatars.githubusercontent.com/u/20367028?s=48&v=4'
   templateType: inline
   categories:

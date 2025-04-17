@@ -7,7 +7,7 @@ spec:
   url: 'metabase.com'
   gitRepo: 'https://github.com/metabase/metabase'
   description: 'The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/metabase/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/metabase/README.md'
   icon: 'https://www.metabase.com/images/logo.svg'
   templateType: inline
   categories:

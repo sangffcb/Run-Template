@@ -7,7 +7,7 @@ spec:
   url: 'readeck.org'
   gitRepo: 'https://codeberg.org/readeck/readeck'
   description: 'Readeck helps you keep all that web content you’ll want to revisit in an hour, tomorrow, or in 20 years.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/readeck/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/readeck/README.md'
   icon: 'https://codeberg.org/repo-avatars/05b1262f738e1417e82c889d8dcb6ba7167a2d266b28d620590f521e58e34a07'
   templateType: inline
   categories:

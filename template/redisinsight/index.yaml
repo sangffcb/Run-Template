@@ -7,7 +7,7 @@ spec:
   url: 'https://redis.com/redis-enterprise/redis-insight/'
   gitRepo: 'https://github.com/RedisInsight/RedisInsight'
   description: 'RedisInsight is a visual tool that provides capabilities to design, develop and optimize your Redis application. Query, analyse and interact with your Redis data.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/redisinsight/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/redisinsight/README.md'
   icon: 'https://raw.githubusercontent.com/RedisInsight/RedisInsight/main/redisinsight/ui/src/assets/img/logo.svg'
   templateType: inline
   categories:

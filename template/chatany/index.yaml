@@ -7,7 +7,7 @@ spec:
   url: 'https://github.com/ChatAnyTeam/ChatAny'
   gitRepo: 'https://github.com/ChatAnyTeam/ChatAny'
   description: 'One-click to own your own ChatGPT+StabilityAI+Midjourney web service'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/chatany/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/chatany/README.md'
   icon: 'https://raw.githubusercontent.com/ChatAnyTeam/ChatAny/master/public/favicon.ico'
   templateType: inline
   categories:

@@ -7,7 +7,7 @@ spec:
   url: 'https://github.com/plausible/analytics'
   gitRepo: 'https://github.com/plausible/analytics'
   description: 'Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/plausible/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/plausible/README.md'
   icon: 'https://raw.githubusercontent.com/plausible/docs/master/static/img/plausible-analytics-icon-top.png'
   templateType: inline
   categories:

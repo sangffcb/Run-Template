@@ -7,7 +7,7 @@ spec:
   url: 'https://github.com/fatedier/frp'
   gitRepo: 'https://github.com/fatedier/frp'
   description: 'A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/frp/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/frp/README.md'
   icon: 'https://raw.githubusercontent.com/fatedier/frp/dev/assets/frps/static/favicon.ico'
   templateType: inline
   locale: en

@@ -7,7 +7,7 @@ spec:
   url: 'https://github.com/Canner/WrenAI'
   gitRepo: 'https://github.com/Canner/WrenAI'
   description: '🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI. 📈📊📋🧑‍💻'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/wrenai/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/wrenai/README.md'
   icon: 'https://raw.githubusercontent.com/Canner/WrenAI/refs/heads/main/wren-ui/public/images/logo.svg'
   templateType: inline
   categories:

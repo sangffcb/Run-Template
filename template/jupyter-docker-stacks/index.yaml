@@ -7,7 +7,7 @@ spec:
   url: 'https://jupyter-docker-stacks.readthedocs.io/en/latest/'
   gitRepo: 'https://github.com/jupyter/docker-stacks'
   description: 'Ready-to-run Docker images containing Jupyter applications.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/jupyter-docker-stacks/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/jupyter-docker-stacks/README.md'
   icon: 'https://raw.githubusercontent.com/jupyter/docker-stacks/main/docs/_static/jupyter-logo.svg'
   templateType: inline
   categories:

@@ -7,7 +7,7 @@ spec:
   url: 'https://github.com/Stirling-Tools/Stirling-PDF'
   gitRepo: 'https://github.com/Stirling-Tools/Stirling-PDF'
   description: '1 Locally hosted web application that allows you to perform various operations on PDF files.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/stirling-pdf/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/stirling-pdf/README.md'
   icon: 'https://avatars.githubusercontent.com/u/139791695?s=48&v=4'
   templateType: inline
   categories:

@@ -7,7 +7,7 @@ spec:
   url: 'https://min.io/'
   gitRepo: 'https://github.com/minio/minio'
   description: 'MinIO is a High Performance Object Storage released under GNU Affero General Public License v3.0. It is API compatible with Amazon S3 cloud storage service. Use MinIO to build high performance infrastructure for machine learning, analytics and application data workloads.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/minio/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/minio/README.md'
   icon: 'https://min.io/resources/favs/apple-icon-180x180.png'
   templateType: inline
   categories:

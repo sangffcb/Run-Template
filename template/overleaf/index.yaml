@@ -7,7 +7,7 @@ spec:
   url: 'https://github.com/overleaf/overleaf'
   gitRepo: 'https://github.com/overleaf/overleaf'
   description: 'Overleaf is an open-source online real-time collaborative LaTeX editor.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/overleaf/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/overleaf/README.md'
   icon: 'https://avatars.githubusercontent.com/u/6359919?s=48&v=4'
   templateType: inline
   categories:

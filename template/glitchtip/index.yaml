@@ -7,7 +7,7 @@ spec:
   url: 'https://glitchtip.com/'
   gitRepo: 'https://gitlab.com/glitchtip/glitchtip'
   description: 'GlitchTip makes monitoring software easy.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/glitchtip/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/glitchtip/README.md'
   icon: 'https://glitchtip.com/assets/home/glitchtip-g.png'
   templateType: inline
   categories:

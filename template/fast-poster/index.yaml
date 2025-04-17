@@ -7,7 +7,7 @@ spec:
   url: 'https://fastposter.net/doc/'
   gitRepo: 'https://github.com/psoho/fast-poster'
   description: '🔥 Fast Poster - Poster generator, image generator, e-commerce poster editor. Support Java, Python, PHP, Go, JS and other multi-language SDK.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/fast-poster/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/fast-poster/README.md'
   icon: 'https://fastposter.net/dassets/dragonfly2x.png'
   templateType: inline
   draft: true

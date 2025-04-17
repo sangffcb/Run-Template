@@ -7,7 +7,7 @@ spec:
   url: 'https://bytebase.com/'
   gitRepo: 'https://github.com/bytebase/bytebase'
   description: 'Bytebase is GitLab/GitHub for Database DevOps, built for developers, DBAs and platform teams.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/bytebase/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/bytebase/README.md'
   icon: 'https://raw.githubusercontent.com/bytebase/bytebase/main/frontend/src/assets/logo-icon.svg'
   templateType: inline
   categories:

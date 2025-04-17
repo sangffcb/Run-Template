@@ -7,7 +7,7 @@ spec:
   url: 'https://nocodb.com/'
   gitRepo: 'https://github.com/nocodb/nocodb'
   description: 'Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart spreadsheet.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/nocodb/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/nocodb/README.md'
   icon: 'https://raw.githubusercontent.com/nocodb/nocodb/develop/packages/nc-gui/assets/img/brand/nocodb-logo.svg'
   templateType: inline
   categories:

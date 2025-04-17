@@ -7,7 +7,7 @@ spec:
   url: 'https://www.chatbotui.com/'
   gitRepo: 'https://github.com/mckaywrigley/chatbot-ui'
   description: 'An open source ChatGPT UI'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/chatbot-ui/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/chatbot-ui/README.md'
   icon: 'https://raw.githubusercontent.com/mckaywrigley/chatbot-ui/main/public/favicon.ico'
   templateType: inline
   categories:

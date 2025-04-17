@@ -7,7 +7,7 @@ spec:
   url: 'https://affine.pro/'
   gitRepo: 'https://github.com/toeverything/AFFiNE'
   description: 'A privacy-focussed, local-first, open-source, and ready-to-use alternative for Notion & Miro.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/affine/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/affine/README.md'
   images:
     - 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/affine/Picture1.png'
     - 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/affine/Picture2.png'

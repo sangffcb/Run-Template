@@ -7,7 +7,7 @@ spec:
   url: 'https://www.illacloud.com/zh-CN'
   gitRepo: 'https://github.com/illacloud/illa-builder'
   description: 'ILLA is a robust open source low-code platform for developers to build internal tools.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/illa-builder/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/illa-builder/README.md'
   icon: 'https://raw.githubusercontent.com/illacloud/illa-builder/main/apps/cloud/public/logo.svg'
   templateType: inline
   categories:

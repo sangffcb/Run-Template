@@ -7,7 +7,7 @@ spec:
   url: 'https://www.photoprism.app/'
   gitRepo: 'https://github.com/photoprism/photoprism'
   description: 'AI-Powered Photos App for the Decentralized Web.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/photoprism/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/photoprism/README.md'
   icon: 'https://avatars.githubusercontent.com/u/32436079?s=48&v=4'
   templateType: inline
   categories:

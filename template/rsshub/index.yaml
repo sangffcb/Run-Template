@@ -7,7 +7,7 @@ spec:
   url: 'https://docs.rsshub.app/'
   gitRepo: 'https://github.com/DIYgod/RSSHub'
   description: '🍰 Everything is RSSible'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/rsshub/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/rsshub/README.md'
   icon: 'https://docs.rsshub.app/img/logo.png'
   templateType: inline
   categories:

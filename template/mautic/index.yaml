@@ -7,7 +7,7 @@ spec:
   url: 'https://www.mautic.org/'
   gitRepo: 'https://github.com/mautic/mautic'
   description: 'Mautic is the world’s largest open source marketing automation software.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/mautic/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/mautic/README.md'
   icon: 'https://avatars.githubusercontent.com/u/5257677?s=48&v=4'
   templateType: inline
   locale: en
