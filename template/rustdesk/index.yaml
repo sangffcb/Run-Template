@@ -1,0 +1,130 @@
+apiVersion: app.claw.cloud/v1
+kind: Template
+metadata:
+  name: rustdesk
+spec:
+  title: RustDesk
+  url: 'https://rustdesk.com/'
+  gitRepo: 'https://github.com/rustdesk/rustdesk'
+  description: 'An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/rustdesk/README.md'
+  icon: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/rustdesk/logo.png'
+  templateType: inline
+  locale: en
+  defaults:
+    app_host:
+      type: string
+      value: ${{ random(8) }}
+    app_name:
+      type: string
+      value: rustdesk-${{ random(8) }}
+  inputs:
+    ENCRYPTED_ONLY:
+      description: '1: Restricted to secure data transmission with public key only, 0: Allows for unsecure data transmission'
+      type: choice
+      options:
+        - 1
+        - 0
+      required: true
+
+---
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: ${{ defaults.app_name }}
+  annotations:
+    originImageName: rustdesk/rustdesk-server-s6:latest
+    deploy.run.claw.cloud/minReplicas: '1'
+    deploy.run.claw.cloud/maxReplicas: '1'
+  labels:
+    run.claw.cloud/app-deploy-manager: ${{ defaults.app_name }}
+    app: ${{ defaults.app_name }}
+spec:
+  replicas: 1
+  revisionHistoryLimit: 1
+  minReadySeconds: 10
+  serviceName: ${{ defaults.app_name }}
+  selector:
+    matchLabels:
+      app: ${{ defaults.app_name }}
+  template:
+    metadata:
+      labels:
+        app: ${{ defaults.app_name }}
+    spec:
+      terminationGracePeriodSeconds: 10
+      automountServiceAccountToken: false
+      containers:
+        - name: ${{ defaults.app_name }}
+          image: rustdesk/rustdesk-server-s6:latest
+          env:
+            - name: RELAY
+              value: "${{ defaults.app_host }}.${{ CLAWCLOUD_CLOUD_DOMAIN }}"
+            - name: ENCRYPTED_ONLY
+              value: "${{ inputs.ENCRYPTED_ONLY }}"
+          resources:
+            requests:
+              cpu: 20m
+              memory: 64Mi
+            limits:
+              cpu: 200m
+              memory: 128Mi
+          ports:
+            - containerPort: 21115
+              protocol: TCP
+              name: 'heartbeat'
+            - containerPort: 21116
+              protocol: TCP
+              name: 'rendezvous-tcp'
+            - containerPort: 21116
+              protocol: UDP
+              name: 'rendezvous-udp'
+            - containerPort: 21117
+              protocol: TCP
+              name: 'relay'
+          imagePullPolicy: IfNotPresent
+          volumeMounts:
+            - name: vn-data
+              mountPath: /data
+      volumes: []
+  volumeClaimTemplates:
+    - metadata:
+        annotations:
+          path: /data
+          value: '1'
+        name: vn-data
+      spec:
+        accessModes:
+          - ReadWriteOnce
+        resources:
+          requests:
+            storage: 256Mi
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: ${{ defaults.app_name }}
+  labels:
+    run.claw.cloud/app-deploy-manager: ${{ defaults.app_name }}
+spec:
+  type: NodePort
+  ports:
+    - protocol: UDP
+      port: 21116
+      targetPort: 21116
+      name: 'rendezvous-udp'
+    - protocol: TCP
+      port: 21116
+      targetPort: 21116
+      name: 'rendezvous-tcp'
+    - protocol: TCP
+      port: 21117
+      targetPort: 21117
+      name: 'relay'
+    - protocol: TCP
+      port: 21115
+      targetPort: 21115
+      name: 'heartbeat'
+  selector:
+    app: ${{ defaults.app_name }}
