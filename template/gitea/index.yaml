@@ -7,7 +7,7 @@ spec:
   url: 'https://gitea.com'
   gitRepo: 'https://github.com/go-gitea/gitea'
   description: 'The goal of this project is to make the easiest, fastest, and most painless way of setting up a self-hosted Git service.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/gitea/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/gitea/README.md'
   icon: 'https://raw.githubusercontent.com/go-gitea/gitea/refs/heads/main/public/assets/img/gitea.svg'
   templateType: inline
   locale: en

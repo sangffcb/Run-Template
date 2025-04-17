@@ -7,7 +7,7 @@ spec:
   url: 'https://uptime.kuma.pet/'
   gitRepo: 'https://github.com/louislam/uptime-kuma'
   description: 'Uptime Kuma is an easy-to-use self-hosted monitoring tool.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/uptime-kuma/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/uptime-kuma/README.md'
   icon: 'https://raw.githubusercontent.com/louislam/uptime-kuma/master/public/icon.svg'
   templateType: inline
   categories:

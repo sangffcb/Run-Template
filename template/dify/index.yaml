@@ -7,7 +7,7 @@ spec:
   url: 'https://dify.ai/'
   gitRepo: 'https://github.com/langgenius/dify'
   description: "Dify is an open-source LLM app development platform."
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/dify/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/dify/README.md'
   images:
     - 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/dify/Picture1.png'
     - 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/dify/Picture2.png'

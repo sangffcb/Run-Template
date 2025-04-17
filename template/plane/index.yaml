@@ -7,7 +7,7 @@ spec:
   url: 'http://plane.so/'
   gitRepo: 'https://github.com/makeplane/plane'
   description: 'Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/plane/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/plane/README.md'
   icon: 'https://avatars.githubusercontent.com/u/115727700?s=48&v=4'
   templateType: inline
   categories:

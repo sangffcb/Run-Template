@@ -7,7 +7,7 @@ spec:
   url: 'https://ai.fastgpt.in/'
   gitRepo: 'https://github.com/labring/FastGPT'
   description: 'A free, open-source, and powerful AI knowledge base platform, offers out-of-the-box data processing, model invocation, RAG retrieval, and visual AI workflows. Easily build complex LLM applications.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/fastgpt/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/fastgpt/README.md'
   icon: 'https://raw.githubusercontent.com/labring/FastGPT/main/.github/imgs/logo.svg'
   templateType: inline
   locale: en

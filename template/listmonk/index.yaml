@@ -7,7 +7,7 @@ spec:
   url: 'https://listmonk.app/'
   gitRepo: 'https://github.com/knadh/listmonk'
   description: 'High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/listmonk/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/listmonk/README.md'
   icon: 'https://raw.githubusercontent.com/knadh/listmonk/master/static/public/static/favicon.png'
   templateType: inline
   categories:

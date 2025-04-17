@@ -7,7 +7,7 @@ spec:
   url: 'https://excalidraw.com/'
   gitRepo: 'https://github.com/excalidraw/excalidraw'
   description: 'An open source virtual hand-drawn style whiteboard. Collaborative and end-to-end encrypted.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/excalidraw/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/excalidraw/README.md'
   icon: 'https://avatars.githubusercontent.com/u/59452120?s=48&v=4'
   templateType: inline
   categories:

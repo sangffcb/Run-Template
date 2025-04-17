@@ -7,7 +7,7 @@ spec:
   url: 'https://github.com/lobehub/lobe-chat'
   gitRepo: 'https://github.com/lobehub/lobe-chat'
   description: 'An open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible (function call) plugin system.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/lobe-chat-db/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/lobe-chat-db/README.md'
   icon: 'https://lobehub.com/_next/static/media/logo.98482105.png'
   templateType: inline
   locale: en

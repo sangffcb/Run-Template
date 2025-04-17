@@ -7,7 +7,7 @@ spec:
   description: 'Minecraft private server with Forge and Fabric support.'
   url: 'https://docker-minecraft-server.readthedocs.io/en/latest/'
   gitRepo: 'https://github.com/itzg/docker-minecraft-server'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/minecraft/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/minecraft/README.md'
   icon: 'https://raw.githubusercontent.com/yangchuansheng/templates-palworld/main/template/minecraft/logo.png'
   templateType: inline
   locale: en

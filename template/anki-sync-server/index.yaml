@@ -7,7 +7,7 @@ spec:
   url: 'https://docs.ankiweb.net/sync-server.html'
   gitRepo: 'https://github.com/yangchuansheng/anki-sync-server'
   description: 'Self-Hosted Anki Sync Server'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/anki-sync-server/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/anki-sync-server/README.md'
   icon: 'https://raw.githubusercontent.com/yangchuansheng/anki-sync-server/main/images/logo.jpeg'
   templateType: inline
   categories:

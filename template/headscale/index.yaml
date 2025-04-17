@@ -7,7 +7,7 @@ spec:
   url: 'https://github.com/juanfont/headscale'
   gitRepo: 'https://github.com/juanfont/headscale'
   description: 'An open source, self-hosted implementation of the Tailscale control server.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/headscale/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/headscale/README.md'
   icon: 'https://raw.githubusercontent.com/juanfont/headscale/main/docs/logo/headscale3-dots.svg'
   templateType: inline
   locale: en

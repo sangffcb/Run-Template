@@ -7,7 +7,7 @@ spec:
   url: 'https://www.pgadmin.org/'
   gitRepo: 'https://github.com/pgadmin-org/pgadmin4'
   description: 'pgAdmin 4 is a rewrite of the popular pgAdmin3 management tool for the PostgreSQL database.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/pgadmin4/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/pgadmin4/README.md'
   icon: 'https://raw.githubusercontent.com/pgadmin-org/pgadmin4/master/web/pgadmin/static/img/logo-128.png'
   templateType: inline
   categories:

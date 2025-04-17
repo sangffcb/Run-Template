@@ -7,7 +7,7 @@ spec:
   url: 'https://coai.dev/'
   gitRepo: 'https://github.com/coaidev/coai'
   description: 'Next Generation AI One-Stop Internationalization Solution.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/chatnio/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/chatnio/README.md'
   icon: 'https://www.coai.dev/logo.png'
   templateType: inline
   locale: en

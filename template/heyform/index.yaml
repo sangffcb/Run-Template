@@ -7,7 +7,7 @@ spec:
   url: 'https://heyform.net/'
   gitRepo: 'https://github.com/heyform/heyform'
   description: 'HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/heyform/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/heyform/README.md'
   icon: 'https://raw.githubusercontent.com/heyform/heyform/main/packages/webapp/public/static/favicon.svg'
   templateType: inline
   categories:

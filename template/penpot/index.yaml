@@ -7,7 +7,7 @@ spec:
   url: 'https://penpot.app/'
   gitRepo: 'https://github.com/penpot/penpot'
   description: 'The open-source design tool for design and code collaboration.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/penpot/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/penpot/README.md'
   icon: 'https://avatars.githubusercontent.com/u/30179644?s=48&v=4'
   templateType: inline
   categories:

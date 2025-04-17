@@ -7,7 +7,7 @@ spec:
   url: 'https://github.com/mongo-express/mongo-express'
   gitRepo: 'https://github.com/mongo-express/mongo-express'
   description: 'A web-based MongoDB admin interface written with Node.js, Express, and Bootstrap3'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/mongo-express/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/mongo-express/README.md'
   icon: 'https://raw.githubusercontent.com/mongo-express/mongo-express/master/public/images/mongo-express-logo.svg'
   templateType: inline
   categories:

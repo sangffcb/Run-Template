@@ -7,7 +7,7 @@ spec:
   url: 'https://tianji.msgbyte.com/'
   gitRepo: 'https://github.com/msgbyte/tianji'
   description: 'Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/tianji/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/tianji/README.md'
   icon: 'https://tianji.msgbyte.com/img/logo.svg'
   templateType: inline
   defaults:

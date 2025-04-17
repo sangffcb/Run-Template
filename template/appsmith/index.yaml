@@ -7,7 +7,7 @@ spec:
   url: 'https://www.appsmith.com/'
   gitRepo: 'https://github.com/appsmithorg/appsmith'
   description: 'Appsmith is an open-source platform to build, deploy, and maintain internal apps. You can build anything from simple CRUD apps, admin panels, dashboards to custom business apps and complicated multi-step workflows.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/appsmith/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/appsmith/README.md'
   icon: 'https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/logo.png'
   templateType: inline
   categories:

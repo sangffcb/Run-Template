@@ -7,7 +7,7 @@ spec:
   url: 'https://github.com/danny-avila/LibreChat'
   gitRepo: 'https://github.com/danny-avila/LibreChat'
   description: 'Enhanced ChatGPT Clone'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/librechat/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/librechat/README.md'
   icon: 'https://raw.githubusercontent.com/danny-avila/LibreChat/main/client/public/assets/logo.svg'
   templateType: inline
   categories:

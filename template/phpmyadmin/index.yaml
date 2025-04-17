@@ -7,7 +7,7 @@ spec:
   url: 'https://www.phpmyadmin.net/'
   gitRepo: 'https://github.com/phpmyadmin/phpmyadmin'
   description: 'A web interface for MySQL and MariaDB.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/phpmyadmin/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/phpmyadmin/README.md'
   icon: 'https://raw.githubusercontent.com/phpmyadmin/phpmyadmin/master/public/favicon.ico'
   templateType: inline
   categories:

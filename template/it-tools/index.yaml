@@ -7,7 +7,7 @@ spec:
   url: 'https://it-tools.tech/'
   gitRepo: 'https://github.com/CorentinTh/it-tools'
   description: 'Useful tools for developer and people working in IT.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/it-tools/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/it-tools/README.md'
   icon: 'https://raw.githubusercontent.com/CorentinTh/it-tools/main/public/favicon-32x32.png'
   templateType: inline
   categories:

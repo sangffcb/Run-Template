@@ -7,7 +7,7 @@ spec:
   url: 'https://github.com/labring/nsfw'
   gitRepo: 'https://github.com/labring/nsfw'
   description: 'NSFW is a project for image pornography recognition'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/nsfw/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/nsfw/README.md'
   icon: 'https://avatars.githubusercontent.com/u/102226726?s=96&v=4'
   templateType: inline
   defaults:

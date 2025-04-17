@@ -7,7 +7,7 @@ spec:
   url: 'https://openobserve.ai/'
   gitRepo: 'https://github.com/openobserve/openobserve'
   description: 'OpenObserve is a cloud native observability platform built specifically for logs, metrics, traces, analytics, RUM (Real User Monitoring - Performance, Errors, Session Replay) designed to work at petabyte scale.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/openobserve/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/openobserve/README.md'
   icon: 'https://openobserve.ai/favicon.svg'
   templateType: inline
   defaults:

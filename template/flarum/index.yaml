@@ -7,7 +7,7 @@ spec:
   description: 'Flarum is a delightfully simple discussion platform for your website.'
   url: 'https://flarum.org/'
   gitRepo: 'https://github.com/crazy-max/docker-flarum'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/flarum/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/flarum/README.md'
   icon: 'https://avatars.githubusercontent.com/u/5549034?s=48&v=4'
   templateType: inline
   categories:

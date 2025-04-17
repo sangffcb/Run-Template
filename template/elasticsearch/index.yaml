@@ -7,7 +7,7 @@ spec:
   url: "https://github.com/elastic/helm-charts"
   gitRepo: "https://github.com/elastic/helm-charts"
   description: "Free and Open, Distributed, RESTful Search Engine."
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/elasticsearch/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/elasticsearch/README.md'
   icon: "https://raw.githubusercontent.com/elastic/elasticsearch/main/distribution/packages/rpm/src/main/resources/logo/elastic.gif"
   templateType: inline
   draft: true

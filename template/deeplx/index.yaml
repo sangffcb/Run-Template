@@ -7,7 +7,7 @@ spec:
   url: 'https://github.com/OwO-Network/DeepLX'
   gitRepo: 'https://github.com/OwO-Network/DeepLX'
   description: 'DeepL Free API (No TOKEN required)'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/deeplx/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/deeplx/README.md'
   icon: 'https://avatars.githubusercontent.com/u/83310993?s=200&v=4'
   templateType: inline
   categories:
