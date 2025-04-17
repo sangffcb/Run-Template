@@ -9,9 +9,9 @@ spec:
   description: 'WordPress is a powerful, user-friendly and open source content management system (CMS) that can be used to publish websites, news, blogs and other content on the Internet.'
   readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/wordpress/README.md'
   images:
-    - 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/wordpress/Picture1.png'
-    - 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/wordpress/Picture2.png'
-    - 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/wordpress/Picture3.png'
+    - 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/wordpress/Picture1.png'
+    - 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/wordpress/Picture2.png'
+    - 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/wordpress/Picture3.png'
   icon: 'https://raw.githubusercontent.com/WordPress/WordPress/master/wp-admin/images/wordpress-logo.svg'
   templateType: inline
   categories:

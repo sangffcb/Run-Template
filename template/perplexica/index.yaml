@@ -8,7 +8,7 @@ spec:
   gitRepo: 'https://github.com/ItzCrazyKns/Perplexica'
   description: 'Perplexica is an open-source AI-powered searching tool or an AI-powered search engine that goes deep into the internet to find answers.'
   readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/Perplexica/README.md'
-  icon: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/Perplexica/chat.svg'
+  icon: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/perplexica/chat.svg'
   templateType: inline
   locale: en
   categories:
