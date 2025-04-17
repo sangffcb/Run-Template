@@ -99,8 +99,6 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: ${{ defaults.app_name }}
-  labels:
-    run.claw.cloud/deploy-on-clawcloud: ${{ defaults.app_name }}
 data:
   vn-etcvn-dockervn-registryvn-configvn-yml: |-
     version: 0.1
@@ -224,7 +222,7 @@ spec:
           image: joxit/docker-registry-ui:2.5.6-debian
           env:
             - name: REGISTRY_TITLE
-              value: Sealos-Registry-GUI
+              value: Clawcloud-Registry-GUI
             - name: SINGLE_REGISTRY
               value: 'true'
             - name: DELETE_IMAGES
