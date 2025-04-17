@@ -66,8 +66,8 @@ spec:
       replicas: 1
       resources:
         limits:
-          cpu: 1000m
-          memory: 1024Mi
+          cpu: 200m
+          memory: 128Mi
         requests:
           cpu: 100m
           memory: 102Mi
@@ -247,8 +247,8 @@ spec:
               cpu: 100m
               memory: 51Mi
             limits:
-              cpu: 1000m
-              memory: 512Mi
+              cpu: 500m
+              memory: 256Mi
       restartPolicy: Never
   backoffLimit: 0
   ttlSecondsAfterFinished: 300
@@ -290,8 +290,8 @@ spec:
       replicas: 1
       resources:
         limits:
-          cpu: 1000m
-          memory: 1024Mi
+          cpu: 500m
+          memory: 512Mi
         requests:
           cpu: 100m
           memory: 102Mi
@@ -534,8 +534,8 @@ spec:
               cpu: 50m
               memory: 25Mi
             limits:
-              cpu: 500m
-              memory: 256Mi
+              cpu: 200m
+              memory: 128Mi
           readinessProbe:
             failureThreshold: 30
             httpGet:
@@ -793,7 +793,7 @@ spec:
               memory: 204Mi
             limits:
               cpu: 200m
-              memory: 2048Mi
+              memory: 256Mi
           imagePullPolicy: IfNotPresent
 
 ---

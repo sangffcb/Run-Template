@@ -90,8 +90,8 @@ spec:
               cpu: 50m
               memory: 51Mi
             limits:
-              cpu: 500m
-              memory: 512Mi
+              cpu: 200m
+              memory: 256Mi
           ports:
             - name: http
               containerPort: 1200
@@ -159,8 +159,8 @@ spec:
               cpu: 50m
               memory: 51Mi
             limits:
-              cpu: 500m
-              memory: 512Mi
+              cpu: 200m
+              memory: 256Mi
           ports:
             - containerPort: 3000
           imagePullPolicy: IfNotPresent
@@ -207,8 +207,8 @@ spec:
       replicas: 1
       resources:
         limits:
-          cpu: 1000m
-          memory: 1024Mi
+          cpu: 500m
+          memory: 512Mi
         requests:
           cpu: 100m
           memory: 102Mi

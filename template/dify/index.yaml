@@ -250,8 +250,8 @@ spec:
               memory: 256Mi
               ephemeral-storage: 200Mi
             limits:
-              cpu: 1000m
-              memory: 2Gi
+              cpu: 500m
+              memory: 500Mi
               ephemeral-storage: 200Mi
           ports:
             - containerPort: 5001
@@ -370,8 +370,8 @@ spec:
               memory: 256Mi
               ephemeral-storage: 200Mi
             limits:
-              cpu: 1000m
-              memory: 2Gi
+              cpu: 500m
+              memory: 500Mi
               ephemeral-storage: 200Mi
           ports:
             - containerPort: 5001
@@ -533,8 +533,8 @@ spec:
               cpu: 100m
               memory: 256Mi
             limits:
-              cpu: 1
-              memory: 2Gi
+              cpu: 500m
+              memory: 500Mi
           ports:
             - containerPort: 3000
           imagePullPolicy: IfNotPresent
@@ -625,8 +625,8 @@ spec:
               memory: 128Mi
               ephemeral-storage: 200Mi
             limits:
-              cpu: 1
-              memory: 1Gi
+              cpu: 500m
+              memory: 500Mi
               ephemeral-storage: 200Mi
           ports:
             - containerPort: 8194
@@ -801,8 +801,8 @@ spec:
               memory: 128Mi
               ephemeral-storage: 200Mi
             limits:
-              cpu: 1
-              memory: 1Gi
+              cpu: 500m
+              memory: 500Mi
               ephemeral-storage: 200Mi
           ports:
             - name: server-port
@@ -925,8 +925,8 @@ spec:
       replicas: 1
       resources:
         limits:
-          cpu: 2
-          memory: 4Gi
+          cpu: 500m
+          memory: 2Gi
         requests:
           cpu: 200m
           memory: 400Mi
@@ -1068,8 +1068,8 @@ spec:
       replicas: 1
       resources:
         limits:
-          cpu: 1
-          memory: 4Gi
+          cpu: 500m
+          memory: 1Gi
         requests:
           cpu: 100m
           memory: 400Mi
@@ -1172,8 +1172,8 @@ spec:
       replicas: 1
       resources:
         limits:
-          cpu: 2
-          memory: 4Gi
+          cpu: 500m
+          memory: 1Gi
         requests:
           cpu: 200m
           memory: 400Mi

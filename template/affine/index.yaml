@@ -114,8 +114,8 @@ spec:
               cpu: 100m
               memory: 204Mi
             limits:
-              cpu: 1000m
-              memory: 2048Mi
+              cpu: 500m
+              memory: 1024Mi
           ports:
             - name: http
               protocol: TCP
@@ -228,8 +228,8 @@ spec:
       replicas: 1
       resources:
         limits:
-          cpu: 1000m
-          memory: 1024Mi
+          cpu: 500m
+          memory: 512Mi
         requests:
           cpu: 100m
           memory: 102Mi
@@ -308,8 +308,8 @@ spec:
       replicas: 1
       resources:
         limits:
-          cpu: 1000m
-          memory: 1024Mi
+          cpu: 500m
+          memory: 512Mi
         requests:
           cpu: 100m
           memory: 102Mi
