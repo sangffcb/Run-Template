@@ -9,9 +9,9 @@ spec:
   description: 'A privacy-focussed, local-first, open-source, and ready-to-use alternative for Notion & Miro.'
   readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/affine/README.md'
   images:
-    - 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/affine/template/Picture1.png'
-    - 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/affine/template/Picture2.png'
-    - 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/affine/template/Picture3.png'
+    - 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/affine/Picture1.png'
+    - 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/affine/Picture2.png'
+    - 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/affine/Picture3.png'
   icon: 'https://raw.githubusercontent.com/toeverything/AFFiNE/canary/packages/frontend/core/public/favicon-144.png'
   templateType: inline
   categories:
