@@ -144,4 +144,4 @@ spec:
   displayType: normal
   icon: "https://avatars.githubusercontent.com/u/59452120?s=48&v=4"
   name: Excalidraw
-  type: iframe
+  type: link

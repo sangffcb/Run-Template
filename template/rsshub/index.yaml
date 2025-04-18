@@ -330,4 +330,4 @@ spec:
   displayType: normal
   icon: "https://raw.githubusercontent.com/DIYgod/RSSHub/master/lib/static/logo.png"
   name: ${{ defaults.app_name }}
-  type: iframe
+  type: link

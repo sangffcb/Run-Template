@@ -396,4 +396,4 @@ spec:
   displayType: normal
   icon: "https://avatars.githubusercontent.com/u/20367028?s=48&v=4"
   name: "PrivateBin"
-  type: iframe
+  type: link

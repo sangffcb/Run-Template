@@ -164,4 +164,4 @@ spec:
   displayType: normal
   icon: 'https://${{ defaults.app_host }}.${{ CLAWCLOUD_CLOUD_DOMAIN }}/favicon.ico'
   name: ${{ defaults.app_name }}
-  type: iframe
+  type: link

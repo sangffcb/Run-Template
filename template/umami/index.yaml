@@ -283,4 +283,4 @@ spec:
   displayType: normal
   icon: "https://raw.githubusercontent.com/umami-software/umami/master/src/assets/logo.svg"
   name: ${{ defaults.app_name }}
-  type: iframe
+  type: link

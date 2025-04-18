@@ -170,7 +170,7 @@ spec:
   displayType: normal
   icon: "https://raw.githubusercontent.com/heyform/heyform/main/packages/webapp/public/static/favicon.svg"
   name: HeyForm
-  type: iframe
+  type: link
 
 ---
 apiVersion: v1

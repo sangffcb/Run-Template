@@ -435,4 +435,4 @@ spec:
   displayType: normal
   icon: "https://www.coai.dev/logo.png"
   name: ${{ defaults.app_name }}
-  type: iframe
+  type: link

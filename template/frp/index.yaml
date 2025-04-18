@@ -272,7 +272,7 @@ spec:
   displayType: normal
   icon: "https://raw.githubusercontent.com/fatedier/frp/dev/assets/frps/static/favicon.ico"
   name: frp
-  type: iframe
+  type: link
 
 ---
 apiVersion: batch/v1

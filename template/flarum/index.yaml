@@ -320,4 +320,4 @@ spec:
   displayType: normal
   icon: "https://avatars.githubusercontent.com/u/5549034?s=48&v=4"
   name: "Flarum"
-  type: iframe
+  type: link

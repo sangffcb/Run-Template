@@ -269,7 +269,7 @@ spec:
   displayType: normal
   icon: "https://avatars.githubusercontent.com/u/6359919?s=48&v=4"
   name: Overleaf
-  type: iframe
+  type: link
 
 ---
 apiVersion: v1

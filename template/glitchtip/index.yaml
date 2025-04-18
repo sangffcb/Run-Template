@@ -650,4 +650,4 @@ spec:
   displayType: normal
   icon: "https://glitchtip.com/assets/home/glitchtip-g.png"
   name: ${{ defaults.app_name }}
-  type: iframe
+  type: link

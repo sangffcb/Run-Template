@@ -241,4 +241,4 @@ spec:
   displayType: normal
   icon: "https://avatars.githubusercontent.com/u/117984167?s=200&v=4"
   name: "Fireboom"
-  type: iframe
+  type: link

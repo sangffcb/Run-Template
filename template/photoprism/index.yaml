@@ -259,4 +259,4 @@ spec:
   displayType: normal
   icon: "https://avatars.githubusercontent.com/u/32436079?s=48&v=4"
   name: PhotoPrism
-  type: iframe
+  type: link

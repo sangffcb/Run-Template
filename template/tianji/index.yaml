@@ -281,4 +281,4 @@ spec:
   displayType: normal
   icon: "https://tianji.msgbyte.com/img/logo.svg"
   name: ${{ defaults.app_name }}
-  type: iframe
+  type: link

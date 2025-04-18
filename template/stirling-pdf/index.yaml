@@ -299,4 +299,4 @@ spec:
   displayType: normal
   icon: "https://avatars.githubusercontent.com/u/139791695?s=48&v=4"
   name: "Stirling-PDF"
-  type: iframe
+  type: link

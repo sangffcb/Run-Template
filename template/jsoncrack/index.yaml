@@ -123,4 +123,4 @@ spec:
   displayType: normal
   icon: "https://raw.githubusercontent.com/AykutSarac/jsoncrack.com/main/public/assets/logo.svg"
   name: ${{ defaults.app_name }}
-  type: iframe
+  type: link

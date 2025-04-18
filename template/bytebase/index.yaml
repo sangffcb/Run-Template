@@ -260,4 +260,4 @@ spec:
   displayType: normal
   icon: "https://raw.githubusercontent.com/bytebase/bytebase/main/frontend/src/assets/logo-icon.svg"
   name: ${{ defaults.app_name }}
-  type: iframe
+  type: link

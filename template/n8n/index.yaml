@@ -167,4 +167,4 @@ spec:
   displayType: normal
   icon: "https://n8n.io/favicon.ico"
   name: ${{ defaults.app_name }}
-  type: iframe
+  type: link

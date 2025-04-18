@@ -111,4 +111,4 @@ spec:
   displayType: normal
   icon: "https://fastposter.net/logo.png"
   name: ${{ defaults.app_name }}
-  type: iframe
+  type: link

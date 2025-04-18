@@ -143,4 +143,4 @@ spec:
   displayType: normal
   icon: "https://raw.githubusercontent.com/CorentinTh/it-tools/main/public/favicon-32x32.png"
   name: IT-Tools
-  type: iframe
+  type: link

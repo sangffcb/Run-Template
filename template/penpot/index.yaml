@@ -619,4 +619,4 @@ spec:
   displayType: normal
   icon: "https://avatars.githubusercontent.com/u/30179644?s=48&v=4"
   name: "Penpot"
-  type: iframe
+  type: link
