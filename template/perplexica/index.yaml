@@ -4,6 +4,10 @@ metadata:
   name: perplexica
 spec:
   title: 'Perplexica'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-21T
   url: 'https://github.com/ItzCrazyKns/Perplexica'
   gitRepo: 'https://github.com/ItzCrazyKns/Perplexica'
   description: 'Perplexica is an open-source AI-powered searching tool or an AI-powered search engine that goes deep into the internet to find answers.'
