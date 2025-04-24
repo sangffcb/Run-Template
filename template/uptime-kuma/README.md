@@ -1,4 +1,4 @@
-# Uptime Kuma: A Self-Hosted Monitoring Solution
+## Uptime Kuma: A Self-Hosted Monitoring Solution
 
 Uptime Kuma is a self-hosted, lightweight, and user-friendly monitoring tool designed to help developers and system administrators track the availability and performance of their services, servers, and applications. Inspired by popular tools like UptimeRobot, this open-source project provides a modern and intuitive dashboard with real-time monitoring capabilities. Built with simplicity in mind, Uptime Kuma supports multiple notification methods, multi-language interfaces, and an easy-to-deploy architecture, making it an excellent choice for both personal and professional use cases.
 

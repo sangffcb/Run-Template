@@ -1,8 +1,8 @@
-# Introducing NocoDB: An Open-Source No-Code Database Platform
+## Introducing NocoDB: An Open-Source No-Code Database Platform
 
 NocoDB is a powerful open-source tool designed to transform any database into a smart spreadsheet interface. This platform empowers developers and non-developers alike to manage data effortlessly without requiring extensive coding knowledge. By providing an intuitive user interface, NocoDB enables users to perform CRUD operations, create relationships, and build custom views over their existing databases seamlessly. With its modular architecture and extensibility, NocoDB is suitable for a wide range of use cases, from small-scale projects to enterprise-level applications.
 
-## Key Features
+### Key Features
 
 - **Smart Spreadsheet Interface**: Interact with your database using an intuitive spreadsheet-like UI, making data management accessible to users of all technical backgrounds.
   

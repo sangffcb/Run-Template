@@ -1,4 +1,4 @@
-# readeck
+## readeck
 
 **Readeck** is a versatile and developer-friendly tool designed to streamline the process of generating professional, visually appealing documentation from simple text-based input. Built with flexibility in mind, it empowers developers, technical writers, and teams to produce consistent, high-quality outputs such as README files, API documentation, and more. With its intuitive syntax and customizable templates, readeck minimizes complexity while maximizing productivity.
 

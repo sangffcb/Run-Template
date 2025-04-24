@@ -4,6 +4,10 @@ metadata:
   name: fireboom
 spec:
   title: 'Fireboom'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://fireboom.cloud/'
   gitRepo: 'https://github.com/fireboomio'
   description: 'Fireboom is a visualization API cloud platform designed for developers with the goal of rapidly delivering production-ready APIs.'

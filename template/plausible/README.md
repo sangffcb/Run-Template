@@ -1,4 +1,4 @@
-# Plausible Analytics
+## Plausible Analytics
 
 Plausible Analytics is a lightweight, open-source web analytics tool designed to provide website owners with simple yet powerful insights into their site traffic. It prioritizes privacy and simplicity, offering an alternative to traditional analytics platforms that often overwhelm users with excessive data or compromise visitor privacy. With its minimalistic design and focus on essential metrics, Plausible ensures compliance with privacy regulations like GDPR while delivering actionable insights.
 

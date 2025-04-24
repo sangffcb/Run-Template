@@ -1,8 +1,8 @@
-# Introduction to Nexus Repository Manager
+## Introduction to Nexus Repository Manager
 
 Nexus Repository Manager is a powerful and versatile artifact repository management solution designed to streamline the storage, organization, and distribution of software components. Developed by Sonatype, this open-source project supports a wide range of package formats and integrates seamlessly into modern development workflows, including CI/CD pipelines. Whether you're managing dependencies for your projects or hosting private repositories, Nexus Repository Manager provides an efficient way to handle binary assets while ensuring security, scalability, and ease of use.
 
-## Key Features
+### Key Features
 
 - **Support for Multiple Formats**: Compatible with popular package formats such as Maven, npm, Docker, PyPI, NuGet, RubyGems, and more, making it adaptable to diverse development ecosystems.
   

@@ -1,8 +1,8 @@
-# inpaint-web
+## inpaint-web
 
 **inpaint-web** is an open-source web-based tool designed to provide users with an intuitive interface for performing image inpainting tasks. Built with a focus on accessibility and ease of use, this project leverages advanced machine learning models to allow users to seamlessly remove unwanted objects or imperfections from images directly in their browsers. Whether you're a developer, designer, or casual user, inpaint-web simplifies the process of enhancing images without requiring extensive technical expertise.
 
-## Key Features
+### Key Features
 
 - **Web-Based Interface**: A fully browser-based application that eliminates the need for complex installations or setups, making it accessible to users of all technical backgrounds.
   

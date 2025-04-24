@@ -1,8 +1,8 @@
-# Introduction to frp
+## Introduction to frp
 
 frp is a high-performance reverse proxy application designed to facilitate secure and efficient internal network penetration. It enables users to expose local servers behind NATs or firewalls to the public internet, making it an ideal solution for remote access, service hosting, and development environments. With support for multiple protocols and advanced features such as traffic encryption, load balancing, and customizable configurations, frp stands out as a versatile tool for developers and system administrators.
 
-## Key Features
+### Key Features
 
 - **Secure Communication**: Encrypts all traffic between clients and servers using TLS, ensuring data integrity and privacy.
 - **Multiple Protocol Support**: Supports common protocols including TCP, UDP, HTTP, and HTTPS, making it adaptable to a wide range of use cases.

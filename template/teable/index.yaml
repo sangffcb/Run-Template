@@ -4,6 +4,10 @@ metadata:
   name: teable
 spec:
   title: 'teable'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'teable.io'
   gitRepo: 'https://github.com/teableio/teable'
   description: 'Teable is a Super fast, Real-time, Professional, Developer friendly, No-code database built on Postgres.'

@@ -1,8 +1,8 @@
-# Tolgee Platform
+## Tolgee Platform
 
 Tolgee is an open-source platform designed to simplify the localization process for developers and translators. By providing a seamless integration with your development workflow, Tolgee eliminates the complexities traditionally associated with managing multilingual content. The platform offers a comprehensive suite of tools that enable real-time translation, collaboration, and automation, making it easier than ever to build applications that cater to global audiences.
 
-## Key Features
+### Key Features
 
 - **Real-Time Translation Editing**: Empowers translators to edit translations directly within the application interface, ensuring quick updates without disrupting the development cycle.
   

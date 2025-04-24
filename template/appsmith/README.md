@@ -1,8 +1,8 @@
-# Appsmith - Open Source Framework for Building Internal Tools
+## Appsmith - Open Source Framework for Building Internal Tools
 
 Appsmith is an open-source framework designed to help developers build internal tools and dashboards quickly and efficiently. By providing a low-code platform, it empowers users to create dynamic applications through drag-and-drop widgets, customizable UI components, and seamless integrations with databases and APIs. With its focus on developer experience, Appsmith ensures flexibility, scalability, and security while enabling teams to streamline workflows and reduce development time.
 
-## Key Features
+### Key Features
 
 - **Drag-and-Drop Interface**: Build user interfaces effortlessly using pre-built widgets like tables, forms, charts, and more.
 - **Integration Capabilities**: Connect to multiple data sources, including REST APIs, GraphQL, and popular databases like PostgreSQL, MongoDB, and MySQL.

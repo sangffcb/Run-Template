@@ -1,4 +1,4 @@
-# JSON Crack: Visualize JSON Data with Ease
+## JSON Crack: Visualize JSON Data with Ease
 
 JSON Crack is an innovative open-source tool designed to transform raw JSON data into interactive, visually appealing graphs. This project empowers developers, data analysts, and technical teams to effortlessly explore and debug complex JSON structures by presenting them in a clear, graphical format. With its intuitive interface and customizable features, JSON Crack streamlines the process of understanding hierarchical data, making it an indispensable utility for anyone working with JSON.
 

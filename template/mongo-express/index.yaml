@@ -4,6 +4,10 @@ metadata:
   name: mongo-express
 spec:
   title: 'mongo-express'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/mongo-express/mongo-express'
   gitRepo: 'https://github.com/mongo-express/mongo-express'
   description: 'A web-based MongoDB admin interface written with Node.js, Express, and Bootstrap3'

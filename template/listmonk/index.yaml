@@ -4,6 +4,10 @@ metadata:
   name: listmonk
 spec:
   title: 'listmonk'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://listmonk.app/'
   gitRepo: 'https://github.com/knadh/listmonk'
   description: 'High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.'

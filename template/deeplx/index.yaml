@@ -4,6 +4,10 @@ metadata:
   name: deeplx
 spec:
   title: 'DeeplX'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/OwO-Network/DeepLX'
   gitRepo: 'https://github.com/OwO-Network/DeepLX'
   description: 'DeepL Free API (No TOKEN required)'

@@ -4,6 +4,10 @@ metadata:
   name: librechat
 spec:
   title: 'LibreChat'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/danny-avila/LibreChat'
   gitRepo: 'https://github.com/danny-avila/LibreChat'
   description: 'Enhanced ChatGPT Clone'

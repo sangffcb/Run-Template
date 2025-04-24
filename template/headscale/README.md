@@ -1,8 +1,8 @@
-# Introduction to headscale
+## Introduction to headscale
 
 Headscale is an open-source, self-hosted implementation of the Tailscale control server, designed to provide a secure and efficient way to create a private WireGuard-based mesh network. It allows users to manage decentralized virtual private networks (VPNs) without relying on third-party services. With headscale, developers and organizations can achieve seamless peer-to-peer connectivity while maintaining full control over their infrastructure.
 
-## Key Features
+### Key Features
 
 - **Self-Hosted Control Server**: Eliminate dependency on external services by hosting your own Tailscale-compatible control server.
   

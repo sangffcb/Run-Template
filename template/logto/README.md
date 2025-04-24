@@ -1,8 +1,8 @@
-# Logto - A Modern Identity Solution for Developers
+## Logto - A Modern Identity Solution for Developers
 
 Logto is an open-source identity solution designed to simplify and secure user authentication and authorization processes. It empowers developers with a flexible, scalable, and developer-friendly platform that supports seamless integration into modern applications. With its modular architecture and emphasis on ease of use, Logto ensures robust security while maintaining high performance and extensibility.
 
-## Key Features
+### Key Features
 
 - **Developer-Centric Design**: Built with developers in mind, Logto provides intuitive APIs and SDKs that streamline the integration process, allowing you to focus on building your application rather than managing complex authentication flows.
 

@@ -4,6 +4,10 @@ metadata:
   name: privatebin
 spec:
   title: 'PrivateBin'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://privatebin.info/'
   gitRepo: 'https://github.com/PrivateBin/PrivateBin'
   description: 'A minimalist, open source online pastebin where the server has zero knowledge of pasted data.'

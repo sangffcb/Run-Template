@@ -4,6 +4,10 @@ metadata:
   name: headscale
 spec:
   title: 'Headscale'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/juanfont/headscale'
   gitRepo: 'https://github.com/juanfont/headscale'
   description: 'An open source, self-hosted implementation of the Tailscale control server.'

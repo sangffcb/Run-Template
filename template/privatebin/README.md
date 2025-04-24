@@ -1,8 +1,8 @@
-# PrivateBin - A Minimalist, Open-Source Paste Service
+## PrivateBin - A Minimalist, Open-Source Paste Service
 
 PrivateBin is a lightweight, open-source web application that allows users to securely share and store text or code snippets, commonly referred to as "pastes." Designed with privacy in mind, PrivateBin ensures that all data is encrypted on the client side before being transmitted, making it impossible for the server to access the content of the pastes. This makes it an ideal solution for individuals and organizations seeking a secure and private alternative to popular paste services.
 
-## Key Features
+### Key Features
 
 - **Client-Side Encryption**: All pastes are encrypted in the browser before being sent to the server, ensuring that only the recipient with the decryption key can access the content.
   

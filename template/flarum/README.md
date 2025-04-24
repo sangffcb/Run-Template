@@ -1,8 +1,8 @@
-# Flarum Docker Project
+## Flarum Docker Project
 
 Flarum is a modern, open-source forum software designed for simplicity and extensibility. This GitHub project provides a Docker-based solution to easily deploy and manage Flarum in various environments, ensuring scalability, flexibility, and ease of maintenance. By leveraging Docker, developers can quickly set up a fully functional Flarum instance with minimal configuration, making it ideal for both development and production use cases.
 
-## Key Features
+### Key Features
 
 - **Dockerized Deployment**: Simplifies the installation and management of Flarum using Docker containers, ensuring consistent environments across different systems.
   

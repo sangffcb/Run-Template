@@ -1,4 +1,4 @@
-# Stirling-PDF: A Versatile PDF Manipulation Tool
+## Stirling-PDF: A Versatile PDF Manipulation Tool
 
 Stirling-PDF is an open-source, user-friendly tool designed to simplify the handling and manipulation of PDF documents. Whether you're a developer automating document workflows or an end-user managing files, Stirling-PDF offers a comprehensive suite of features to streamline your tasks. Built with flexibility and performance in mind, this project empowers users to effortlessly process PDFs while maintaining high-quality output.
 

@@ -4,6 +4,10 @@ metadata:
   name: jsoncrack
 spec:
   title: 'jsoncrack'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/AykutSarac/jsoncrack.com'
   gitRepo: 'https://github.com/AykutSarac/jsoncrack.com'
   description: 'JSON Crack is a free, open-source data visualization app capable of visualizing data formats such as JSON, YAML, XML, CSV and more, into interactive graphs.'

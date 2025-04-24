@@ -4,6 +4,10 @@ metadata:
   name: tianji
 spec:
   title: 'Tianji'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://tianji.msgbyte.com/'
   gitRepo: 'https://github.com/msgbyte/tianji'
   description: 'Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives'

@@ -1,8 +1,8 @@
-# NSFW Project Overview
+## NSFW Project Overview
 
 The NSFW (Not Safe For Work) project is a robust and flexible content filtering solution designed to identify and filter inappropriate or sensitive content in images. Leveraging advanced machine learning models, this project provides developers with an efficient way to moderate visual media, making it suitable for applications where maintaining community guidelines is critical. Whether you're building a social media platform, content management system, or any application requiring automated moderation, NSFW offers a reliable and scalable solution.
 
-## Key Features
+### Key Features
 
 - **Advanced Machine Learning Models**: Utilizes state-of-the-art deep learning techniques to accurately classify images based on their content.
   

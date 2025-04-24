@@ -4,6 +4,10 @@ metadata:
   name: it-tools
 spec:
   title: 'IT-Tools'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://it-tools.tech/'
   gitRepo: 'https://github.com/CorentinTh/it-tools'
   description: 'Useful tools for developer and people working in IT.'

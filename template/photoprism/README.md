@@ -1,8 +1,8 @@
-# PhotoPrism: AI-Powered Photo Management
+## PhotoPrism: AI-Powered Photo Management
 
 PhotoPrism is an open-source, self-hosted photo management application designed to provide a modern and privacy-focused solution for organizing and exploring your personal photo library. Leveraging the power of artificial intelligence, it automatically tags, categorizes, and indexes images, making them easily searchable without relying on cloud services. Built with scalability in mind, PhotoPrism supports large collections and offers a user-friendly web interface for seamless interaction.
 
-## Key Features
+### Key Features
 
 - **AI-Powered Image Recognition**: Utilizes machine learning algorithms to automatically tag and categorize photos based on their content, such as objects, scenes, and faces.
 - **Privacy by Design**: Ensures all your data remains private and under your control, as the application runs entirely on your own infrastructure without third-party dependencies.

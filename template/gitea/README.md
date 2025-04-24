@@ -1,8 +1,8 @@
-# Gitea - A Self-Hosted Git Service
+## Gitea - A Self-Hosted Git Service
 
 Gitea is a lightweight, open-source Git service designed to provide developers with a self-hosted solution for managing Git repositories. Built using the Go programming language, it offers a seamless and efficient way to set up your own git hosting platform. Gitea emphasizes simplicity, performance, and ease of deployment, making it an ideal choice for individuals, small teams, or enterprises seeking a customizable and secure alternative to third-party Git services.
 
-## Key Features
+### Key Features
 
 - **Self-Hosted and Lightweight**: Gitea is easy to install and run on your own servers, with minimal resource requirements, ensuring high performance even on modest hardware.
   

@@ -1,8 +1,8 @@
-# Mautic - Open Source Marketing Automation
+## Mautic - Open Source Marketing Automation
 
 Mautic is a robust, open-source marketing automation platform designed to help businesses of all sizes streamline their marketing efforts. It empowers users to create personalized customer experiences through advanced campaign management, email marketing, lead generation, and analytics. Built with flexibility in mind, Mautic can be self-hosted or deployed on the cloud, offering full control over data and marketing strategies. Whether you're managing campaigns for small businesses or enterprises, Mautic provides the tools necessary to drive engagement and measure success effectively.
 
-## Key Features
+### Key Features
 
 - **Marketing Campaign Management**:  
   Design, execute, and monitor multi-channel marketing campaigns with an intuitive drag-and-drop interface. Automate workflows to nurture leads and engage customers seamlessly.

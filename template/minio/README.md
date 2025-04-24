@@ -1,8 +1,8 @@
-# Introduction to MinIO
+## Introduction to MinIO
 
 MinIO is a high-performance, S3-compatible object storage solution designed for large-scale data infrastructure. It is built to handle unstructured data such as photos, videos, log files, and backups, making it ideal for cloud-native applications, AI/ML workloads, and modern data pipelines. With its simplicity, scalability, and enterprise-grade features, MinIO empowers developers and organizations to build robust and efficient storage systems that seamlessly integrate with existing cloud ecosystems.
 
-## Key Features
+### Key Features
 
 - **S3 Compatibility**: MinIO adheres to the Amazon S3 API standard, ensuring seamless integration with applications and tools that rely on S3 protocols.
   

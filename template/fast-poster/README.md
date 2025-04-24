@@ -1,4 +1,4 @@
-# fast-poster: A Rapid Poster Generation Tool
+## fast-poster: A Rapid Poster Generation Tool
 
 **fast-poster** is a versatile and efficient tool designed to streamline the process of creating visually appealing posters. Whether you're promoting an event, advertising a product, or sharing information, fast-poster simplifies the design workflow by offering a user-friendly interface combined with powerful customization capabilities. Built with developers and designers in mind, this tool ensures high performance while maintaining flexibility for unique creative needs.
 

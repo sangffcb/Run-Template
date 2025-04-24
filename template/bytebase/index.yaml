@@ -4,6 +4,10 @@ metadata:
   name: bytebase
 spec:
   title: 'Bytebase'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://bytebase.com/'
   gitRepo: 'https://github.com/bytebase/bytebase'
   description: 'Bytebase is GitLab/GitHub for Database DevOps, built for developers, DBAs and platform teams.'

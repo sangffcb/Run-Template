@@ -4,6 +4,10 @@ metadata:
   name: Reactive-Resume
 spec:
   title: "Reactive-Resume"
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: "https://rxresu.me/"
   gitRepo: "https://github.com/AmruthPillai/Reactive-Resume"
   description: "A free and open-source resume builder that simplifies the process of creating, updating, and sharing your resume."

@@ -1,8 +1,8 @@
-# OpenObserve - A Unified Observability Platform
+## OpenObserve - A Unified Observability Platform
 
 OpenObserve is an open-source observability platform designed to provide a comprehensive solution for log management, metrics monitoring, and tracing. It empowers developers and DevOps teams to efficiently collect, analyze, and visualize data from various sources in real-time, enabling faster troubleshooting and better decision-making. Built with scalability and ease of use in mind, OpenObserve offers a modern alternative to traditional observability tools, making it suitable for both small-scale deployments and enterprise-grade systems.
 
-## Key Features
+### Key Features
 
 - **Unified Observability**: Combines logs, metrics, and traces into a single platform, offering a holistic view of your system's performance and health.
 - **High Performance**: Optimized for high-throughput data ingestion and low-latency queries, ensuring smooth operations even with large datasets.

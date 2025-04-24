@@ -4,6 +4,10 @@ metadata:
   name: palworld
 spec:
   title: 'Palworld'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   description: 'Palworld Dedicated Server'
   url: 'https://github.com/thijsvanloef/palworld-server-docker'
   gitRepo: 'https://github.com/thijsvanloef/palworld-server-docker'

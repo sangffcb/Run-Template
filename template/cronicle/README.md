@@ -1,4 +1,4 @@
-# Cronicle: A Scalable Job Scheduler and Task Automation Platform
+## Cronicle: A Scalable Job Scheduler and Task Automation Platform
 
 Cronicle is a powerful, open-source job scheduler and task automation platform designed to manage and execute scheduled tasks with precision and efficiency. Built for developers and system administrators alike, it provides a user-friendly web interface, real-time monitoring, and advanced scheduling capabilities. With support for distributed environments, plugin-based architecture, and extensive configuration options, Cronicle is an ideal solution for automating workflows in small-scale projects as well as enterprise-level deployments.
 

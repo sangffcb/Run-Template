@@ -1,4 +1,4 @@
-# Dify - Empowering AI Application Development
+## Dify - Empowering AI Application Development
 
 Dify is an innovative open-source project designed to streamline the development and deployment of AI-powered applications. By combining the robustness of Large Language Models (LLMs) with flexible tools for building, testing, and serving AI applications, Dify enables developers to create user-friendly interfaces and scalable backends with ease. Whether you're a seasoned developer or new to AI, Dify provides everything you need to bring your ideas to life efficiently and effectively.
 

@@ -4,6 +4,10 @@ metadata:
   name: openobserve
 spec:
   title: 'OpenObserve'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://openobserve.ai/'
   gitRepo: 'https://github.com/openobserve/openobserve'
   description: 'OpenObserve is a cloud native observability platform built specifically for logs, metrics, traces, analytics, RUM (Real User Monitoring - Performance, Errors, Session Replay) designed to work at petabyte scale.'

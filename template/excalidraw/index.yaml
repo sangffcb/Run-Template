@@ -4,6 +4,10 @@ metadata:
   name: excalidraw
 spec:
   title: 'Excalidraw'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://excalidraw.com/'
   gitRepo: 'https://github.com/excalidraw/excalidraw'
   description: 'An open source virtual hand-drawn style whiteboard. Collaborative and end-to-end encrypted.'

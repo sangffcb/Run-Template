@@ -4,6 +4,10 @@ metadata:
   name: photoprism
 spec:
   title: 'PhotoPrism'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://www.photoprism.app/'
   gitRepo: 'https://github.com/photoprism/photoprism'
   description: 'AI-Powered Photos App for the Decentralized Web.'

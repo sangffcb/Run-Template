@@ -4,6 +4,10 @@ metadata:
   name: docker-stacks
 spec:
   title: 'JupyterDockerStacks'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://jupyter-docker-stacks.readthedocs.io/en/latest/'
   gitRepo: 'https://github.com/jupyter/docker-stacks'
   description: 'Ready-to-run Docker images containing Jupyter applications.'

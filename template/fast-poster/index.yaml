@@ -4,6 +4,10 @@ metadata:
   name: fast-poster
 spec:
   title: 'Fast Poster'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://fastposter.net/doc/'
   gitRepo: 'https://github.com/psoho/fast-poster'
   description: '🔥 Fast Poster - Poster generator, image generator, e-commerce poster editor. Support Java, Python, PHP, Go, JS and other multi-language SDK.'

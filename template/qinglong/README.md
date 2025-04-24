@@ -1,8 +1,8 @@
-# QingLong - A Versatile Task Automation Framework
+## QingLong - A Versatile Task Automation Framework
 
 QingLong is a powerful and flexible task automation framework designed to streamline routine operations and enhance productivity. Built with developers and system administrators in mind, this project simplifies the creation, scheduling, and management of tasks through an intuitive interface and robust backend infrastructure. Whether you're automating workflows, managing scripts, or orchestrating complex processes, QingLong offers a comprehensive solution for all your automation needs.
 
-## Key Features
+### Key Features
 
 - **Modular Architecture**: QingLong adopts a modular design, enabling users to extend functionality by integrating custom modules or plugins tailored to specific use cases.
 

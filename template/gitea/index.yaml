@@ -4,6 +4,10 @@ metadata:
   name: gitea
 spec:
   title: 'Gitea'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://gitea.com'
   gitRepo: 'https://github.com/go-gitea/gitea'
   description: 'The goal of this project is to make the easiest, fastest, and most painless way of setting up a self-hosted Git service.'

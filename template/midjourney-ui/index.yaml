@@ -4,6 +4,10 @@ metadata:
   name: midjourney-ui
 spec:
   title: 'midjourney-ui'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/topics/midjourney-ui'
   gitRepo: 'https://github.com/erictik/midjourney-ui'
   description: 'Midjourney UI is an open source txt2img UI for AI draw.'

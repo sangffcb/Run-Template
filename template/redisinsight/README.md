@@ -1,8 +1,8 @@
-# RedisInsight - A Comprehensive GUI for Redis
+## RedisInsight - A Comprehensive GUI for Redis
 
 RedisInsight is a powerful, intuitive, and user-friendly graphical user interface (GUI) designed to help developers and database administrators manage, monitor, and optimize their Redis databases with ease. Built to cater to both beginners and advanced users, RedisInsight provides a wide array of tools for data visualization, performance analysis, and real-time monitoring, making it an indispensable companion for anyone working with Redis.
 
-## Key Features:
+### Key Features:
 
 - **Real-Time Monitoring and Metrics**: Gain insights into your Redis instance's performance with real-time metrics and detailed analytics, ensuring optimal database health and responsiveness.
 

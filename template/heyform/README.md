@@ -1,8 +1,8 @@
-# HeyForm: Open Source Form Builder
+## HeyForm: Open Source Form Builder
 
 HeyForm is an open-source, self-hosted form builder designed to help developers and businesses create customizable, secure, and efficient forms for data collection. Built with modern web technologies, HeyForm offers a seamless user experience while ensuring flexibility and scalability. Whether you're gathering feedback, conducting surveys, or managing registrations, HeyForm provides the tools you need to build and manage forms with ease.
 
-## Key Features
+### Key Features
 
 - **Self-Hosted Solution**: Deploy HeyForm on your own infrastructure to maintain full control over your data and ensure compliance with privacy regulations.
   

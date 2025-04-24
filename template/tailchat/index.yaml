@@ -4,6 +4,10 @@ metadata:
   name: tailchat
 spec:
   title: 'Tailchat'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://tailchat.msgbyte.com/'
   gitRepo: 'https://github.com/msgbyte/tailchat'
   description: 'Next generation noIM application in your own workspace.'

@@ -4,6 +4,10 @@ metadata:
   name: alist
 spec:
   title: 'AList'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/alist-org/alist'
   gitRepo: 'https://github.com/alist-org/alist'
   description: 'A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs.'

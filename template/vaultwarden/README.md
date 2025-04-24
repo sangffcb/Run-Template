@@ -1,8 +1,8 @@
-# Introduction to Vaultwarden
+## Introduction to Vaultwarden
 
 Vaultwarden is a lightweight, self-hosted password management solution that serves as an unofficial Bitwarden-compatible server. Designed for simplicity and efficiency, it offers users the ability to host their own password vault without relying on third-party services. By implementing the Bitwarden API, Vaultwarden ensures seamless compatibility with official Bitwarden clients while minimizing resource usage, making it ideal for personal or small-scale deployments.
 
-## Key Features
+### Key Features
 
 - **Bitwarden Compatibility**: Fully supports the Bitwarden API, ensuring smooth integration with official Bitwarden client applications across various platforms.
   

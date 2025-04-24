@@ -4,6 +4,10 @@ metadata:
   name: logto
 spec:
   title: 'Logto'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://logto.io/'
   gitRepo: 'https://github.com/logto-io/logto'
   description: 'Logto is an open-source Identity and Access Management (IAM) platform designed to streamline Customer Identity and Access Management (CIAM) and Workforce Identity Management.'

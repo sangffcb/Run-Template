@@ -1,8 +1,8 @@
-# mongo-express - MongoDB Admin Interface
+## mongo-express - MongoDB Admin Interface
 
 Mongo-express is a lightweight, web-based MongoDB administrative interface written in Node.js, Express.js, and Bootstrap. Designed for developers and database administrators, it provides an intuitive and user-friendly way to interact with MongoDB databases directly from the browser. With support for essential database operations, schema exploration, and document management, mongo-express is an ideal tool for development, debugging, and light administrative tasks.
 
-## Key Features
+### Key Features
 
 - **Web-Based Interface**: Access MongoDB databases through an easy-to-navigate, responsive web application.
 - **Cross-Platform Compatibility**: Works seamlessly on any modern browser and operating system.

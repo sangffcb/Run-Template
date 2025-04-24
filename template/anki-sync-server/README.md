@@ -1,8 +1,8 @@
-# Anki Sync Server
+## Anki Sync Server
 
 Anki Sync Server is an open-source implementation of the synchronization functionality used by the popular flashcard application, Anki. Designed to provide users with a self-hosted alternative to AnkiWeb, this project ensures complete control over data privacy while maintaining seamless integration with Anki's desktop and mobile clients. By hosting your own sync server, you can enjoy uninterrupted access to your flashcards without relying on third-party services.
 
-## Key Features
+### Key Features
 
 - **Self-Hosted Solution**: Gain full control over your data by hosting the sync server on your own infrastructure.
 - **Compatibility with Anki Clients**: Seamlessly integrates with Anki's desktop and mobile applications, ensuring a smooth user experience.

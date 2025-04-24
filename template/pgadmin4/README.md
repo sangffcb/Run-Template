@@ -1,8 +1,8 @@
-# Introduction to pgAdmin 4
+## Introduction to pgAdmin 4
 
 PgAdmin 4 is an advanced, open-source database management and administration tool designed for PostgreSQL and its associated database systems. It provides a user-friendly interface for managing databases with robust capabilities for developers, database administrators, and analysts. Built using Python and modern web technologies, pgAdmin 4 delivers a highly responsive and intuitive experience through its browser-based architecture. Whether you're performing routine database tasks or executing complex queries, pgAdmin 4 ensures efficiency and precision in your workflow.
 
-## Key Features
+### Key Features
 
 - **Cross-Platform Compatibility**: Operates seamlessly on Windows, macOS, and Linux environments, ensuring accessibility across diverse operating systems.
 - **Web-Based Interface**: Offers a fully web-based GUI that can be accessed from any modern browser, eliminating the need for additional desktop installations.

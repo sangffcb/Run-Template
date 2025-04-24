@@ -1,8 +1,8 @@
-# Open WebUI
+## Open WebUI
 
 Open WebUI is an open-source project designed to provide developers with a flexible and customizable web-based user interface. This project empowers users to build, extend, and integrate user-friendly interfaces into their applications with minimal effort. Built with modern web technologies, Open WebUI emphasizes modularity, scalability, and ease of use, making it suitable for a wide range of use cases, from simple dashboards to complex enterprise applications.
 
-## Key Features
+### Key Features
 
 - **Modular Architecture**: Open WebUI is built with a modular design, allowing developers to easily add, remove, or replace components based on their specific needs.
   

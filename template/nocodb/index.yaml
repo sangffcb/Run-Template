@@ -4,6 +4,10 @@ metadata:
   name: nocodb
 spec:
   title: 'NocoDB'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://nocodb.com/'
   gitRepo: 'https://github.com/nocodb/nocodb'
   description: 'Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart spreadsheet.'

@@ -4,6 +4,10 @@ metadata:
   name: tolgee
 spec:
   title: 'Tolgee'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://tolgee.io/'
   gitRepo: 'https://github.com/tolgee-io/tolgee'
   description: 'Tolgee is an open-source localization platform developers enjoy to working with.'

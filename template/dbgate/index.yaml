@@ -4,6 +4,10 @@ metadata:
   name: dbgate
 spec:
   title: 'DbGate'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://dbgate.org'
   gitRepo: 'https://github.com/dbgate/dbgate'
   description: 'DbGate is cross-platform database manager. It is designed to be simple to use and effective, when working with more databases simultaneously. But there are also many advanced features like schema compare, visual query designer, chart visualisation or batch export and import.'
