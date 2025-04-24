@@ -4,6 +4,10 @@ metadata:
   name: wordpress
 spec:
   title: 'WordPress'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://wordpress.org'
   gitRepo: 'https://github.com/WordPress/WordPress'
   description: 'WordPress is a powerful, user-friendly and open source content management system (CMS) that can be used to publish websites, news, blogs and other content on the Internet.'

@@ -4,6 +4,10 @@ metadata:
   name: phpmyadmin
 spec:
   title: 'phpmyadmin'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://www.phpmyadmin.net/'
   gitRepo: 'https://github.com/phpmyadmin/phpmyadmin'
   description: 'A web interface for MySQL and MariaDB.'

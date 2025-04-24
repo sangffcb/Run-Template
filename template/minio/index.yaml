@@ -4,6 +4,10 @@ metadata:
   name: minio
 spec:
   title: 'MinIO'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://min.io/'
   gitRepo: 'https://github.com/minio/minio'
   description: 'MinIO is a High Performance Object Storage released under GNU Affero General Public License v3.0. It is API compatible with Amazon S3 cloud storage service. Use MinIO to build high performance infrastructure for machine learning, analytics and application data workloads.'

@@ -1,8 +1,8 @@
-# n8n - Workflow Automation for Everyone
+## n8n - Workflow Automation for Everyone
 
 n8n is an extendable, open-source workflow automation tool designed to seamlessly integrate applications and automate repetitive tasks. With its intuitive visual interface and flexible node-based architecture, n8n empowers users to create custom workflows tailored to their specific needs. Whether you're a developer looking to streamline processes or a non-technical user automating daily tasks, n8n provides the tools to connect APIs, databases, and services with ease.
 
-## Key Features
+### Key Features
 
 - **Node-Based Workflow Design**: Build workflows visually using a drag-and-drop interface with customizable nodes representing various actions and triggers.
   

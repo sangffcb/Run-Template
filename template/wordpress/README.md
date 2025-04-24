@@ -1,8 +1,8 @@
-# Introduction to WordPress
+## Introduction to WordPress
 
 WordPress is a powerful, open-source content management system (CMS) that empowers millions of websites and blogs globally. It provides an intuitive platform for users to create, manage, and customize their digital presence with ease. Built with scalability and flexibility in mind, WordPress caters to both beginners and advanced developers, offering a robust ecosystem of themes, plugins, and tools to enhance functionality and design.
 
-## Key Features
+### Key Features
 
 - **User-Friendly Interface**: Simplifies website creation and management with an intuitive dashboard and easy-to-navigate menus.
 - **Extensible via Plugins**: Supports thousands of plugins to extend core functionality, enabling features like SEO optimization, e-commerce, analytics, and more.

@@ -4,6 +4,10 @@ metadata:
   name: redisinsight
 spec:
   title: 'RedisInsight'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://redis.com/redis-enterprise/redis-insight/'
   gitRepo: 'https://github.com/RedisInsight/RedisInsight'
   description: 'RedisInsight is a visual tool that provides capabilities to design, develop and optimize your Redis application. Query, analyse and interact with your Redis data.'

@@ -6,6 +6,10 @@ spec:
   gitRepo: https://github.com/distribution/distribution
   templateType: inline
   title: registry
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: https://distribution.github.io/distribution
   description: >-
     registry is an implementation of the OCI Distribution Specification.

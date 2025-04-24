@@ -4,6 +4,10 @@ metadata:
   name: n8n
 spec:
   title: 'N8N'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://n8n.io/'
   gitRepo: 'https://github.com/n8n-io/n8n'
   description: 'Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.'

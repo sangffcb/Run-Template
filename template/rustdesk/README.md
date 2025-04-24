@@ -1,8 +1,8 @@
-# RustDesk: Open-Source Remote Desktop Solution
+## RustDesk: Open-Source Remote Desktop Solution
 
 RustDesk is a high-performance, open-source remote desktop application designed to provide secure and efficient remote access to computers. Built with a focus on privacy and ease of use, RustDesk offers a reliable alternative to proprietary remote desktop tools. With its lightweight architecture and cross-platform support, RustDesk empowers users to manage and control their devices seamlessly from anywhere in the world.
 
-## Key Features
+### Key Features
 
 - **Open Source and Privacy-Focused**: RustDesk is fully open-source, ensuring transparency and allowing users to audit the code for security and privacy compliance.
 

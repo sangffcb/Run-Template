@@ -1,8 +1,8 @@
-# phpMyAdmin - A Web-based MySQL and MariaDB Administration Tool
+## phpMyAdmin - A Web-based MySQL and MariaDB Administration Tool
 
 PhpMyAdmin is a free and open-source web-based application designed to handle the administration of MySQL and MariaDB databases. It provides an intuitive user interface for managing databases, tables, columns, relations, indexes, users, permissions, and more. With support for a wide array of operations, phpMyAdmin is an essential tool for database administrators, developers, and anyone working with MySQL or MariaDB.
 
-## Key Features
+### Key Features
 
 - **Web-Based Interface**: Access and manage your databases through an easy-to-use web interface, eliminating the need for command-line operations.
   

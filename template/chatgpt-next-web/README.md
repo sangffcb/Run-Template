@@ -1,4 +1,4 @@
-# ChatGPT-Next-Web: A Modern Web Interface for ChatGPT
+## ChatGPT-Next-Web: A Modern Web Interface for ChatGPT
 
 ChatGPT-Next-Web is an open-source project designed to provide a sleek, responsive, and feature-rich web interface for interacting with the ChatGPT API. Built with modern web technologies, this project aims to enhance user experience by offering a customizable, high-performance platform that seamlessly integrates with OpenAI's powerful language model. Whether you're a developer looking to extend its functionality or an end-user seeking a polished interface, ChatGPT-Next-Web is engineered to meet diverse needs.
 

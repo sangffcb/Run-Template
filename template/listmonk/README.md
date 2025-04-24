@@ -1,8 +1,8 @@
-# Introduction to listmonk
+## Introduction to listmonk
 
 listmonk is a high-performance, self-hosted newsletter and mailing list management system designed to simplify the process of managing and sending newsletters, transactional emails, and marketing campaigns. Built with scalability and ease of use in mind, it offers a modern, intuitive user interface along with a robust set of features that cater to both small-scale users and large enterprises. With its open-source nature, listmonk provides flexibility and control over your email infrastructure while ensuring compliance with privacy standards.
 
-## Key Features
+### Key Features
 
 - **Self-Hosted Solution**: Fully self-hosted, giving you complete control over your data and infrastructure without relying on third-party services.
 - **High Performance**: Optimized for speed and efficiency, capable of handling thousands of subscribers and emails with minimal resource usage.

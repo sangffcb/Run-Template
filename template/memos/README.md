@@ -1,8 +1,8 @@
-# Introduction to Memos
+## Introduction to Memos
 
 Memos is an open-source, self-hosted knowledge management tool designed to help individuals and teams capture, organize, and share information efficiently. Built with simplicity and extensibility in mind, Memos provides a lightweight solution for creating and managing notes, ideas, and collaborative content. With its modern interface and robust feature set, Memos empowers users to streamline their workflows while maintaining full control over their data.
 
-## Key Features
+### Key Features
 
 - **Self-Hosted Architecture**: Deploy Memos on your own infrastructure, ensuring complete ownership and privacy of your data.
 - **Intuitive User Interface**: A clean, minimalistic design makes it easy to create, edit, and manage notes without unnecessary complexity.

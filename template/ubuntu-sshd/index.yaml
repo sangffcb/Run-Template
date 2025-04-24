@@ -4,6 +4,10 @@ metadata:
   name: ubuntu-sshd
 spec:
   title: 'docker-ubuntu-sshd'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/takeyamajp/docker-ubuntu-sshd'
   gitRepo: 'https://github.com/takeyamajp/docker-ubuntu-sshd'
   description: 'Ubuntu image with SSH & SFTP'

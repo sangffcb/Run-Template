@@ -4,6 +4,10 @@ metadata:
   name: qinglong
 spec:
   title: 'qinglong'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/whyour/qinglong'
   gitRepo: 'https://github.com/whyour/qinglong'
   description: 'Timed task management platform supporting Python3, JavaScript, Shell, Typescript'

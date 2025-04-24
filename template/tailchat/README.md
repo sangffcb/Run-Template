@@ -1,8 +1,8 @@
-# Tailchat - Open-Source Real-Time Chat Platform
+## Tailchat - Open-Source Real-Time Chat Platform
 
 Tailchat is an open-source, real-time chat platform designed to provide a seamless and secure communication experience for teams and individuals. Built with modern technologies, it emphasizes modularity, extensibility, and ease of deployment. Tailchat offers a self-hosted solution that ensures data privacy while providing rich features typically found in proprietary messaging platforms.
 
-## Key Features
+### Key Features
 
 - **Real-Time Communication**: Powered by WebSocket and advanced synchronization protocols, Tailchat ensures instant message delivery and real-time updates.
   

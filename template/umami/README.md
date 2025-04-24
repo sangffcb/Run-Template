@@ -1,8 +1,8 @@
-# Umami: A Lightweight, Privacy-Focused Web Analytics Solution
+## Umami: A Lightweight, Privacy-Focused Web Analytics Solution
 
 Umami is an open-source web analytics platform designed to provide a simple, fast, and privacy-focused alternative to mainstream analytics tools. It empowers developers and website owners with essential metrics about their visitors while respecting user privacy by not using cookies or tracking personal data. With its intuitive interface and minimalistic design, Umami offers a seamless experience for both setup and usage.
 
-## Key Features
+### Key Features
 
 - **Privacy-Centric Design**: Ensures compliance with GDPR and other privacy regulations by avoiding the use of cookies or storing personally identifiable information (PII).
   

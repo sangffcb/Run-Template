@@ -1,8 +1,8 @@
-# FastGPT: A High-Performance Framework for Building and Deploying AI Models  
+## FastGPT: A High-Performance Framework for Building and Deploying AI Models  
 
 FastGPT is an open-source framework designed to streamline the development, fine-tuning, and deployment of large language models (LLMs). It provides a modular and scalable architecture that enables developers to efficiently build, customize, and manage AI-driven applications. With its user-friendly interface and robust backend capabilities, FastGPT empowers both beginners and experienced developers to harness the power of advanced AI models without compromising on performance or flexibility.
 
-## Key Features  
+### Key Features  
 
 - **Modular Design**: FastGPT offers a highly modular structure, allowing users to easily swap out components such as embedding models, vector databases, and LLMs to suit their specific use cases.  
 

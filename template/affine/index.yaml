@@ -4,6 +4,10 @@ metadata:
   name: affine
 spec:
   title: 'AFFiNE'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://affine.pro/'
   gitRepo: 'https://github.com/toeverything/AFFiNE'
   description: 'A privacy-focussed, local-first, open-source, and ready-to-use alternative for Notion & Miro.'

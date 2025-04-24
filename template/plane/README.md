@@ -1,8 +1,8 @@
-# Plane - Simplified Project Management for Teams
+## Plane - Simplified Project Management for Teams
 
 Plane is an open-source project management tool designed to help teams organize, plan, and execute their projects with ease. Built with simplicity and customization in mind, Plane offers a clean and intuitive interface that enables teams to manage tasks, track progress, and collaborate efficiently. Whether you're working on small personal projects or large-scale team initiatives, Plane provides the flexibility and functionality required to streamline your workflow.
 
-## Key Features
+### Key Features
 
 - **Intuitive Task Management**: Create, assign, and prioritize tasks effortlessly using a user-friendly interface.
 - **Customizable Workspaces**: Tailor workspaces to match your team's unique needs and workflows.

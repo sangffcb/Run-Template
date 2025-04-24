@@ -4,6 +4,10 @@ metadata:
   name: chatnio
 spec:
   title: 'Chat Nio'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://coai.dev/'
   gitRepo: 'https://github.com/coaidev/coai'
   description: 'Next Generation AI One-Stop Internationalization Solution.'

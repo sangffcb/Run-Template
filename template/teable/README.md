@@ -1,8 +1,8 @@
-# Teable - A Versatile Data Collaboration Platform
+## Teable - A Versatile Data Collaboration Platform
 
 Teable is an open-source, API-first data collaboration platform designed to streamline workflows for developers and teams. It combines the flexibility of a spreadsheet with the power of a database, enabling seamless data management, automation, and integration across various tools. Whether you're managing projects, building applications, or automating processes, Teable offers a robust framework for organizing and interacting with data efficiently.
 
-## Key Features
+### Key Features
 
 - **API-First Design**: Built from the ground up with APIs at its core, Teable allows developers to interact with data programmatically, making it easy to integrate into existing workflows and systems.
 

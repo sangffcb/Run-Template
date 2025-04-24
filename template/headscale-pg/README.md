@@ -1,8 +1,8 @@
-# Introduction to headscale-pg
+## Introduction to headscale-pg
 
 Headscale-pg is an open-source implementation of a WireGuard-based mesh network solution that simplifies the deployment and management of decentralized virtual private networks (VPNs). Built as an alternative to Tailscale's control server, this project enables users to host their own private network infrastructure. With its focus on security, scalability, and ease of use, headscale-pg serves as a robust tool for developers and system administrators looking to establish secure peer-to-peer connections across devices.
 
-## Key Features
+### Key Features
 
 - **Self-Hosted Control Server**: Eliminate reliance on third-party services by hosting your own control server, ensuring full control over your network.
 - **WireGuard Integration**: Leverage the modern, high-performance WireGuard protocol to establish secure and efficient encrypted tunnels between devices.

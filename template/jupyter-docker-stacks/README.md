@@ -1,8 +1,8 @@
-# Jupyter Docker Stacks
+## Jupyter Docker Stacks
 
 Jupyter Docker Stacks is a collection of ready-to-use Docker images designed to streamline the setup and deployment of Jupyter Notebook and JupyterLab environments. These pre-built images cater to a variety of use cases, from data science and machine learning to scientific computing and education. By packaging essential tools, libraries, and dependencies into modular containers, this project empowers users to focus on their work without worrying about environment configuration.
 
-## Key Features
+### Key Features
 
 - **Pre-configured Jupyter Environments**: Each image comes with Jupyter Notebook, JupyterLab, and commonly used libraries pre-installed, ensuring a seamless out-of-the-box experience.
   

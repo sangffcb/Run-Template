@@ -1,8 +1,8 @@
-# Introduction to RSSHub
+## Introduction to RSSHub
 
 RSSHub is an innovative, open-source project designed to create RSS feeds for websites that do not natively support them. It serves as a lightweight, extensible tool enabling users to stay updated with their favorite web content through standardized feed formats. By leveraging the power of Node.js, RSSHub ensures real-time updates and seamless integration with various platforms and applications.
 
-## Key Features
+### Key Features
 
 - **Extensibility**: RSSHub supports custom route creation, allowing developers to add new RSS feed functionalities tailored to specific websites or use cases.
   

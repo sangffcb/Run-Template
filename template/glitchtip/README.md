@@ -1,4 +1,4 @@
-# GlitchTip - Open Source Error Tracking
+## GlitchTip - Open Source Error Tracking
 
 GlitchTip is an open-source error tracking system designed to help developers monitor and debug their applications efficiently. It provides a comprehensive platform for capturing, analyzing, and managing errors in real-time, ensuring that development teams can maintain high-quality software with minimal downtime. With its intuitive interface and powerful features, GlitchTip serves as a self-hosted alternative to popular error tracking services, empowering organizations to take full control of their error monitoring processes.
 

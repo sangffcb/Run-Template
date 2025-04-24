@@ -4,6 +4,10 @@ metadata:
   name: metabase
 spec:
   title: 'metabase'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'metabase.com'
   gitRepo: 'https://github.com/metabase/metabase'
   description: 'The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋'

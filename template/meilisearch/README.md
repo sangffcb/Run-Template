@@ -1,8 +1,8 @@
-# MeiliSearch - A Lightning-Fast Search Engine
+## MeiliSearch - A Lightning-Fast Search Engine
 
 MeiliSearch is an open-source, easy-to-use, and highly efficient search engine designed to provide a seamless search experience for developers and end-users alike. It focuses on delivering fast, typo-tolerant, and relevant search results with minimal configuration. With its intuitive API and developer-friendly design, MeiliSearch is ideal for enhancing applications with powerful search capabilities while maintaining simplicity and performance.
 
-## Key Features
+### Key Features
 
 - **Blazing-Fast Search**: Achieve near-instantaneous search responses, even with large datasets, thanks to MeiliSearch's optimized indexing and querying mechanisms.
   

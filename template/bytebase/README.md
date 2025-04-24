@@ -1,4 +1,4 @@
-# Bytebase: Database Schema Change and Version Control
+## Bytebase: Database Schema Change and Version Control
 
 Bytebase is an open-source, web-based tool designed to facilitate safe and efficient database schema changes and version control. It offers a comprehensive solution for managing database migrations across different environments, enabling developers and database administrators to collaborate effectively while ensuring data integrity and minimizing downtime. With its intuitive interface and robust feature set, Bytebase simplifies the complexities of database management, making it an essential tool for teams working with relational databases.
 

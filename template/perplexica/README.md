@@ -1,4 +1,4 @@
-# Perplexica - A Powerful Text-Based Adventure Framework
+## Perplexica - A Powerful Text-Based Adventure Framework
 
 Perplexica is an innovative and extensible framework designed to facilitate the creation of text-based adventure games. Built with flexibility and developer experience in mind, this project provides a robust foundation for crafting immersive interactive narratives. Whether you're a hobbyist exploring game development or a seasoned developer seeking a streamlined solution, Perplexica empowers you to bring your story-driven projects to life with minimal effort.
 
