@@ -1,8 +1,8 @@
-# Flowise - An Introduction
+## Flowise - An Introduction
 
 Flowise is an open-source, lightweight framework designed to streamline the creation and deployment of machine learning workflows. Built with modularity and scalability in mind, it empowers developers and data scientists to construct complex pipelines while maintaining ease of use. Whether you're working on data preprocessing, model training, or evaluation, Flowise provides a flexible environment to manage every step efficiently.
 
-## Key Features
+### Key Features
 
 - **Modular Architecture**: Construct workflows by assembling reusable components, allowing for greater flexibility and customization.
 - **Lightweight Design**: Minimal overhead ensures quick setup and execution, making it suitable for both small-scale projects and large-scale deployments.

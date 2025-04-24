@@ -4,6 +4,10 @@ metadata:
   name: Readeck
 spec:
   title: 'Readeck'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'readeck.org'
   gitRepo: 'https://codeberg.org/readeck/readeck'
   description: 'Readeck helps you keep all that web content you’ll want to revisit in an hour, tomorrow, or in 20 years.'

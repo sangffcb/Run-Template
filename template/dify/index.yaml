@@ -4,6 +4,10 @@ metadata:
   name: dify
 spec:
   title: 'Dify'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://dify.ai/'
   gitRepo: 'https://github.com/langgenius/dify'
   description: "Dify is an open-source LLM app development platform."

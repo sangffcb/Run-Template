@@ -4,6 +4,10 @@ metadata:
   name: penpot
 spec:
   title: 'Penpot'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://penpot.app/'
   gitRepo: 'https://github.com/penpot/penpot'
   description: 'The open-source design tool for design and code collaboration.'

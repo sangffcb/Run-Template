@@ -4,6 +4,10 @@ metadata:
   name: meilisearch
 spec:
   title: 'Meilisearch'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://www.meilisearch.com/'
   gitRepo: 'https://github.com/meilisearch/meilisearch'
   description: 'A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.'

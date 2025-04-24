@@ -1,4 +1,4 @@
-# Overleaf - Collaborative LaTeX Editor
+## Overleaf - Collaborative LaTeX Editor
 
 Overleaf is a powerful, open-source platform designed for collaborative writing and editing of LaTeX documents. It provides an intuitive web-based interface that allows researchers, students, and professionals to work together in real-time, streamlining the process of creating complex scientific and academic papers. With its robust feature set, Overleaf eliminates many of the challenges traditionally associated with LaTeX document preparation, making it accessible to both beginners and advanced users.
 

@@ -1,8 +1,8 @@
-# Lobe Chat - An Open-Source Chatbot Framework
+## Lobe Chat - An Open-Source Chatbot Framework
 
 Lobe Chat is an open-source, extensible, and developer-friendly chatbot framework designed to simplify the creation, deployment, and management of conversational AI. It provides a seamless experience for developers to build feature-rich chatbots with customizable workflows, multi-platform support, and advanced integrations. Whether you're creating a personal assistant or scaling a business solution, Lobe Chat empowers you to bring your ideas to life with minimal effort.
 
-## Key Features
+### Key Features
 
 - **Extensible Architecture**: Build and integrate custom plugins to extend the functionality of your chatbot, tailored to your specific use case.
 - **Multi-Platform Support**: Deploy your chatbot across various platforms such as web, mobile, and messaging apps, ensuring broad accessibility.

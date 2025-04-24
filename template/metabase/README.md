@@ -1,8 +1,8 @@
-# Metabase - Open Source Business Intelligence Tool
+## Metabase - Open Source Business Intelligence Tool
 
 Metabase is an open-source business intelligence (BI) tool designed to make data querying and visualization accessible to everyone, regardless of technical expertise. With its intuitive user interface and powerful features, Metabase enables users to explore data, generate reports, and share insights effortlessly. Whether you're a data analyst or a non-technical team member, Metabase bridges the gap between raw data and actionable decisions by allowing users to ask questions in plain English or through a simple point-and-click interface.
 
-## Key Features
+### Key Features
 
 - **User-Friendly Interface**:  
   Metabase provides an intuitive graphical interface that allows users to query databases without needing to write complex SQL queries.

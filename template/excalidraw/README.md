@@ -1,8 +1,8 @@
-# Excalidraw - A Virtual Whiteboard for Sketching
+## Excalidraw - A Virtual Whiteboard for Sketching
 
 Excalidraw is a virtual whiteboard tool designed for sketching hand-drawn-like diagrams, making it perfect for brainstorming sessions, teaching, and collaborative work. It offers a simple yet powerful interface that allows users to create professional-looking visuals with minimal effort. With its focus on ease of use and collaboration, Excalidraw has become a popular choice among developers, designers, and educators alike.
 
-## Key Features
+### Key Features
 
 - **Hand-Drawn Style**: Creates diagrams that mimic the natural look and feel of hand-drawn sketches, providing a unique aesthetic appeal.
 - **Real-Time Collaboration**: Enables multiple users to collaborate seamlessly in real-time, enhancing team productivity and creativity.

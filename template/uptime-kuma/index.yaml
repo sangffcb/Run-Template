@@ -4,6 +4,10 @@ metadata:
   name: uptime-kuma
 spec:
   title: 'UptimeKuma'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://uptime.kuma.pet/'
   gitRepo: 'https://github.com/louislam/uptime-kuma'
   description: 'Uptime Kuma is an easy-to-use self-hosted monitoring tool.'

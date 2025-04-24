@@ -1,8 +1,8 @@
-# Artalk - A Lightweight Commenting System
+## Artalk - A Lightweight Commenting System
 
 Artalk is an open-source, lightweight commenting system designed to provide a seamless and customizable commenting experience for websites. Built with simplicity and performance in mind, it enables developers to integrate a fully functional comment section into their projects with minimal effort. Artalk supports features such as Markdown editing, spam filtering, and multi-platform compatibility, making it a versatile choice for both personal blogs and enterprise-level applications.
 
-## Key Features
+### Key Features
 
 - **Lightweight and Fast**: Artalk is engineered to be minimalistic and efficient, ensuring quick load times and smooth user interactions without compromising functionality.
 

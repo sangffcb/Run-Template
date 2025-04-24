@@ -4,6 +4,10 @@ metadata:
   name: flarum
 spec:
   title: Flarum
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   description: 'Flarum is a delightfully simple discussion platform for your website.'
   url: 'https://flarum.org/'
   gitRepo: 'https://github.com/crazy-max/docker-flarum'

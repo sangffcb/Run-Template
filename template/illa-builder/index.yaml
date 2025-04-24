@@ -4,6 +4,10 @@ metadata:
   name: illa-builder
 spec:
   title: 'ILLA Builder'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://www.illacloud.com/zh-CN'
   gitRepo: 'https://github.com/illacloud/illa-builder'
   description: 'ILLA is a robust open source low-code platform for developers to build internal tools.'

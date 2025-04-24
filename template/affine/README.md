@@ -1,8 +1,8 @@
-# AFFiNE: A Next-Generation Knowledge Management Platform
+## AFFiNE: A Next-Generation Knowledge Management Platform
 
 AFFiNE is an innovative knowledge management platform designed to empower users with a seamless experience for organizing, collaborating, and creating content. Built as a versatile all-in-one workspace, AFFiNE combines the best of note-taking, task management, and whiteboarding functionalities. With its modular architecture and open-source foundation, AFFiNE caters to individuals and teams seeking flexibility, extensibility, and performance in their productivity tools.
 
-## Key Features
+### Key Features
 
 - **Unified Workspace**: AFFiNE integrates notes, tasks, and collaborative whiteboards into a single cohesive environment, streamlining workflows and enhancing productivity.
 

@@ -4,6 +4,10 @@ metadata:
   name: flowise
 spec:
   title: 'Flowise'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://flowiseai.com/'
   gitRepo: 'https://github.com/FlowiseAI/Flowise'
   description: 'Drag & drop UI to build your customized LLM flow.'

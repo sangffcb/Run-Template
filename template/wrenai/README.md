@@ -1,8 +1,8 @@
-# WrenAI
+## WrenAI
 
 WrenAI is an innovative open-source project designed to streamline and enhance artificial intelligence workflows through a modular, scalable, and developer-friendly framework. Built with flexibility in mind, this project empowers developers and data scientists to create, deploy, and manage AI models efficiently by providing a comprehensive suite of tools and utilities. Whether you're working on natural language processing, computer vision, or other AI-driven applications, WrenAI offers a robust foundation to accelerate your development lifecycle.
 
-## Key Features
+### Key Features
 
 - **Modular Architecture**: WrenAI adopts a highly modular design, allowing users to customize components based on their specific needs without being constrained by rigid structures.
   

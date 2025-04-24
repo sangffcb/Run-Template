@@ -1,4 +1,4 @@
-# ChatAny - Your Versatile AI-Powered Chat Assistant
+## ChatAny - Your Versatile AI-Powered Chat Assistant
 
 ChatAny is an advanced, open-source AI chatbot framework designed to deliver seamless conversational experiences across multiple platforms. Built with flexibility and extensibility in mind, this project empowers developers to create, deploy, and manage intelligent chat assistants tailored to their specific needs. Whether you're building a customer support bot, a personal assistant, or an interactive storytelling companion, ChatAny provides the tools and infrastructure to bring your ideas to life.
 

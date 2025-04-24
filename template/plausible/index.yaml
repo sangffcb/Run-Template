@@ -4,6 +4,10 @@ metadata:
   name: plausible
 spec:
   title: 'plausible'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/plausible/analytics'
   gitRepo: 'https://github.com/plausible/analytics'
   description: 'Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.'

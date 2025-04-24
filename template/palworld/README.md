@@ -1,10 +1,10 @@
-# Palworld Server Template
+## Palworld Server Template
 
 The **Palworld Server Template** is a streamlined and customizable solution designed to simplify the setup, configuration, and management of Palworld servers. This project provides a robust framework for launching and maintaining Palworld servers with minimal effort, making it ideal for both beginners and experienced server administrators. By leveraging this template, users can ensure a consistent and efficient server environment while focusing on gameplay and community building.
 
 ---
 
-## Features
+### Features
 
 - **Easy Setup**: Quickly deploy a Palworld server with minimal configuration.
 - **Customizable**: Adjust server settings such as admin password, server name, and server password to suit your needs.
@@ -14,7 +14,7 @@ The **Palworld Server Template** is a streamlined and customizable solution desi
 
 ---
 
-## Getting Started
+### Getting Started
 
 Follow these steps to set up and launch your Palworld server:
 

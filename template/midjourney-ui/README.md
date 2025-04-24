@@ -1,8 +1,8 @@
-# MidJourney UI
+## MidJourney UI
 
 MidJourney UI is an open-source project aimed at providing a sleek, intuitive, and customizable graphical user interface for interacting with AI-powered creative workflows. Designed with both developers and end-users in mind, this tool bridges the gap between complex AI systems and accessible user experiences. By leveraging modern web technologies, MidJourney UI ensures responsiveness, scalability, and ease of integration into existing projects.
 
-## Key Features
+### Key Features
 
 - **Intuitive Interface**: A clean and user-friendly design that simplifies navigation and enhances the overall user experience.
 - **Customizable Layouts**: Offers flexible customization options to tailor the interface according to specific project requirements.

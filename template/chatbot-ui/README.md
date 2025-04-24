@@ -1,8 +1,8 @@
-# Introduction to Chatbot UI
+## Introduction to Chatbot UI
 
 Chatbot UI is an open-source project designed to provide developers with a customizable and user-friendly interface for building and deploying chatbot applications. This project focuses on delivering a seamless experience for both developers and end-users, enabling rapid prototyping and deployment of conversational AI systems. With its modern design and flexible architecture, Chatbot UI supports integration with various backend services and APIs, making it adaptable to a wide range of use cases.
 
-## Key Features
+### Key Features
 
 - **Modern and Responsive Design**  
   The interface is sleek, intuitive, and optimized for both desktop and mobile devices, ensuring a consistent user experience across platforms.

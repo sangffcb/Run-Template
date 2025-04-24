@@ -1,8 +1,8 @@
-# Reactive Resume
+## Reactive Resume
 
 Reactive Resume is an open-source, privacy-focused resume builder designed to provide users with a seamless and customizable experience for creating professional resumes. Built with modern web technologies, this project emphasizes responsiveness, accessibility, and ease of use, ensuring that users can generate polished resumes tailored to their needs without compromising their personal data. Whether you're a developer, designer, or job seeker, Reactive Resume offers a versatile platform to craft resumes that stand out.
 
-## Key Features
+### Key Features
 
 - **Open Source**: Fully transparent and community-driven, allowing developers to contribute, extend, and customize the platform as needed.
 - **Privacy-Focused**: Ensures user data remains private and is never stored or shared, providing peace of mind while crafting resumes.

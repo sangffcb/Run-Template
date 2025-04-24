@@ -4,6 +4,10 @@ metadata:
   name: wrenai
 spec:
   title: 'WrenAI'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/Canner/WrenAI'
   gitRepo: 'https://github.com/Canner/WrenAI'
   description: '🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI. 📈📊📋🧑‍💻'

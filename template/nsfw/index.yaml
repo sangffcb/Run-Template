@@ -4,6 +4,10 @@ metadata:
   name: nsfw
 spec:
   title: 'nsfw'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/labring/nsfw'
   gitRepo: 'https://github.com/labring/nsfw'
   description: 'NSFW is a project for image pornography recognition'

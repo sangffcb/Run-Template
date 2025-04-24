@@ -1,8 +1,8 @@
-# Introduction to influxdb
+## Introduction to influxdb
 
 InfluxDB is a high-performance, open-source time series database designed to handle large volumes of time-stamped data with precision and efficiency. Built specifically for metrics, events, and analytics workloads, InfluxDB offers a robust platform for storing, querying, and visualizing time series data. Whether you're monitoring infrastructure, tracking IoT sensor data, or analyzing application performance, InfluxDB provides the tools necessary to manage complex datasets at scale.
 
-## Key Features
+### Key Features
 
 - **High Write and Query Performance**: Optimized for fast ingestion and retrieval of time series data, ensuring low-latency operations even under heavy workloads.
   

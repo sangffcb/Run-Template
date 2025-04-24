@@ -4,6 +4,10 @@ metadata:
   name: overleaf
 spec:
   title: 'Overleaf'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/overleaf/overleaf'
   gitRepo: 'https://github.com/overleaf/overleaf'
   description: 'Overleaf is an open-source online real-time collaborative LaTeX editor.'

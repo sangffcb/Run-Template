@@ -4,6 +4,10 @@ metadata:
   name: s-pdf
 spec:
   title: 'Stirling-PDF'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/Stirling-Tools/Stirling-PDF'
   gitRepo: 'https://github.com/Stirling-Tools/Stirling-PDF'
   description: '1 Locally hosted web application that allows you to perform various operations on PDF files.'

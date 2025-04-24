@@ -1,4 +1,4 @@
-# DeepLX - A Lightweight Translation Service
+## DeepLX - A Lightweight Translation Service
 
 DeepLX is an open-source, lightweight translation service that leverages the power of DeepLX to provide high-quality translations for developers and end-users alike. Designed with simplicity and efficiency in mind, this project serves as a self-hosted alternative to commercial translation APIs, making it ideal for developers who require customizable and privacy-focused solutions. Whether you're building a multilingual application or need a robust backend for translation tasks, DeepLX offers a seamless experience with minimal setup.
 

@@ -1,8 +1,8 @@
-# Introduction to the Registry Project
+## Introduction to the Registry Project
 
 The Registry project is a robust and flexible solution designed to streamline the management of software registries, enabling developers to efficiently store, organize, and distribute packages or artifacts. Built with scalability and ease of use in mind, this tool provides a centralized platform for handling versioned resources, making it an ideal choice for teams working on collaborative development projects. Whether you're managing dependencies, deploying applications, or automating workflows, the Registry project offers a comprehensive suite of features to meet your needs.
 
-## Key Features
+### Key Features
 
 - **Centralized Package Management**: Provides a unified repository for storing and organizing software packages, ensuring easy access and efficient resource utilization.
   

@@ -4,6 +4,10 @@ metadata:
   name: frp
 spec:
   title: 'frp'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/fatedier/frp'
   gitRepo: 'https://github.com/fatedier/frp'
   description: 'A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.'

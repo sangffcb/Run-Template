@@ -4,6 +4,10 @@ metadata:
   name: code-server
 spec:
   title: 'code-server'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/coder/code-server'
   gitRepo: 'https://github.com/coder/code-server'
   description: 'VS Code in the browser'

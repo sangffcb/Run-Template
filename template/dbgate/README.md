@@ -1,8 +1,8 @@
-# dbgate - Database Management Tool
+## dbgate - Database Management Tool
 
 dbgate is an open-source, cross-platform database management tool designed to simplify the process of managing and querying various types of databases. It provides a user-friendly interface for developers, database administrators, and analysts to efficiently interact with their data. Whether you're working with SQL-based databases or NoSQL solutions, dbgate offers a comprehensive suite of tools to streamline workflows, enhance productivity, and ensure seamless database operations.
 
-## Key Features
+### Key Features
 
 - **Cross-Platform Support**: Compatible with Windows, macOS, and Linux, ensuring flexibility across different operating systems.
 - **Multi-Database Connectivity**: Supports a wide range of database engines, including MySQL, PostgreSQL, MongoDB, SQLite, and more.

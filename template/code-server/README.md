@@ -1,8 +1,8 @@
-# code-server - Run VS Code on any machine, anywhere
+## code-server - Run VS Code on any machine, anywhere
 
 **code-server** is a versatile project that allows developers to run Visual Studio Code on remote servers, unlocking the ability to code from any device with a web browser. By delivering a seamless and secure cloud-based development experience, code-server empowers users to harness the full power of VS Code's features, extensions, and customizability without being constrained by local hardware limitations. Whether you're working on lightweight laptops, tablets, or even smartphones, code-server ensures a consistent and efficient coding environment.
 
-## Key Features
+### Key Features
 
 - **Cloud-Based Development**: Run VS Code in the cloud and access it from any modern web browser, enabling development workflows on diverse devices.
   

@@ -4,6 +4,10 @@ metadata:
   name: elasticsearch
 spec:
   title: "Elasticsearch"
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: "https://github.com/elastic/helm-charts"
   gitRepo: "https://github.com/elastic/helm-charts"
   description: "Free and Open, Distributed, RESTful Search Engine."

@@ -4,6 +4,10 @@ metadata:
   name: chatany
 spec:
   title: 'chatany'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/ChatAnyTeam/ChatAny'
   gitRepo: 'https://github.com/ChatAnyTeam/ChatAny'
   description: 'One-click to own your own ChatGPT+StabilityAI+Midjourney web service'

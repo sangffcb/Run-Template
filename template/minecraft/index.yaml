@@ -4,6 +4,10 @@ metadata:
   name: minecraft
 spec:
   title: 'Minecraft'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   description: 'Minecraft private server with Forge and Fabric support.'
   url: 'https://docker-minecraft-server.readthedocs.io/en/latest/'
   gitRepo: 'https://github.com/itzg/docker-minecraft-server'

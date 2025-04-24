@@ -1,4 +1,4 @@
-# Elasticsearch Helm Charts
+## Elasticsearch Helm Charts
 
 The Elasticsearch Helm Charts project provides a robust and flexible way to deploy Elasticsearch on Kubernetes clusters. This project is designed to simplify the deployment process while offering extensive customization options for developers and operators. By leveraging Helm, users can efficiently manage and scale Elasticsearch clusters with ease, ensuring high availability and performance.
 

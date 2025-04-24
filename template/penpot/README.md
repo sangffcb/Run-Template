@@ -1,8 +1,8 @@
-# Penpot: Open-Source Design and Prototyping Platform
+## Penpot: Open-Source Design and Prototyping Platform
 
 Penpot is an open-source design and prototyping tool tailored for cross-functional collaboration between designers and developers. Built with a focus on flexibility, real-time collaboration, and seamless integration into modern workflows, Penpot bridges the gap between design and development teams. By leveraging open web standards such as SVG and CSS, it ensures that designs are both accessible and developer-friendly. Whether you're designing interfaces, creating interactive prototypes, or iterating on feedback, Penpot offers a comprehensive solution for all stages of the design lifecycle.
 
-## Key Features
+### Key Features
 
 - **Open Source and Self-Hosted**: Penpot is fully open-source, allowing users to deploy and manage it on their own infrastructure, ensuring data privacy and customization.
 

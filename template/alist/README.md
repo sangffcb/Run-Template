@@ -1,8 +1,8 @@
-# Introduction to Alist
+## Introduction to Alist
 
 Alist is a versatile and lightweight file list program designed to streamline the management and sharing of files across multiple storage services. This project enables users to aggregate various storage sources into a unified interface, making it easier to browse, manage, and share files without switching platforms. With its modular design and extensive compatibility, Alist is suitable for both personal use and collaborative environments.
 
-## Key Features
+### Key Features
 
 - **Multi-Storage Support**: Seamlessly integrates with a wide range of storage providers, including cloud services and local file systems, for centralized access.
 - **Unified Interface**: Offers a clean and intuitive web-based UI that simplifies navigation and file management across different storage backends.

@@ -4,6 +4,10 @@ metadata:
   name: memos
 spec:
   title: 'memos'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/usememos/memos'
   gitRepo: 'https://github.com/usememos/memos'
   description: 'A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.'

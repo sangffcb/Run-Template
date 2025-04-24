@@ -4,6 +4,10 @@ metadata:
   name: chatbot-ui
 spec:
   title: 'chatbot-ui'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://www.chatbotui.com/'
   gitRepo: 'https://github.com/mckaywrigley/chatbot-ui'
   description: 'An open source ChatGPT UI'

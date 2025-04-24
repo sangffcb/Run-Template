@@ -4,6 +4,10 @@ metadata:
   name: glitchtip
 spec:
   title: 'glitchtip'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://glitchtip.com/'
   gitRepo: 'https://gitlab.com/glitchtip/glitchtip'
   description: 'GlitchTip makes monitoring software easy.'

@@ -4,6 +4,10 @@ metadata:
   name: vaultwarden
 spec:
   title: 'Vaultwarden'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/dani-garcia/vaultwarden'
   gitRepo: 'https://github.com/dani-garcia/vaultwarden'
   description: 'Alternative implementation of the Bitwarden server API written in Rust and compatible with upstream Bitwarden clients*, perfect for self-hosted deployment where running the official resource-heavy service might not be ideal.'

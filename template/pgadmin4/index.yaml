@@ -4,6 +4,10 @@ metadata:
   name: pgadmin4
 spec:
   title: 'pgadmin4'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://www.pgadmin.org/'
   gitRepo: 'https://github.com/pgadmin-org/pgadmin4'
   description: 'pgAdmin 4 is a rewrite of the popular pgAdmin3 management tool for the PostgreSQL database.'

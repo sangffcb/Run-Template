@@ -4,6 +4,10 @@ metadata:
   name: open-webui
 spec:
   title: 'Open WebUI'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-04-17
   url: 'https://github.com/open-webui/open-webui'
   gitRepo: 'https://github.com/open-webui/open-webui'
   description: 'User-friendly WebUI for LLMs (Formerly Ollama WebUI)'

@@ -1,8 +1,8 @@
-# Minecraft Server Template
+## Minecraft Server Template
 
 The **Minecraft Server Template** is a streamlined and customizable solution designed to simplify the setup, configuration, and management of Minecraft servers. This project provides a robust framework for launching and maintaining Minecraft servers with minimal effort, making it ideal for both beginners and experienced server administrators. By leveraging this template, users can ensure a consistent and efficient server environment while focusing on gameplay and community building.
 
-## Key Features
+### Key Features
 
 - **Pre-configured Setup**: Comes with ready-to-use configurations, reducing the complexity of initial server deployment.
 - **Customizable Options**: Allows users to easily modify server settings to suit their specific needs, including game modes, difficulty levels, and world generation options.
