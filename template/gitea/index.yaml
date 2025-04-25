@@ -100,25 +100,25 @@ spec:
     - metadata:
         annotations:
           path: /var/lib/gitea
-          value: '5'
+          value: '3'
         name: vn-varvn-libvn-gitea
       spec:
         accessModes:
           - ReadWriteOnce
         resources:
           requests:
-            storage: 5Gi
+            storage: 3Gi
     - metadata:
         annotations:
           path: /tmp/gitea
-          value: '5'
+          value: '3'
         name: vn-tmpvn-gitea
       spec:
         accessModes:
           - ReadWriteOnce
         resources:
           requests:
-            storage: 5Gi
+            storage: 3Gi
     - metadata:
         annotations:
           path: /etc/gitea
