@@ -4,9 +4,12 @@ metadata:
   name: ${{ defaults.app_name }}
 spec:
   title:                            # App Name
+  type: official                    # Template type: official, developer, community
+  author: ClawCloud Run             # Template author
+  author_id: 180503656              # Template author GitHub ID
+  date: 2025-04-17                  # Template submit date
   url:                              # App official website
   gitRepo:                          # App GitHub url
-  author:                           # Template author name
   description:                      # App description
   readme:                           # App Readme url
   icon:                             # App icon url
