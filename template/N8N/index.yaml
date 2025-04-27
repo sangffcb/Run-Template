@@ -11,7 +11,7 @@ spec:
   url: 'https://n8n.io/'
   gitRepo: 'https://github.com/n8n-io/n8n'
   description: 'Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/n8n/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/N8N/README.md'
   icon: 'https://n8n.io/favicon.ico'
   templateType: inline
   categories:

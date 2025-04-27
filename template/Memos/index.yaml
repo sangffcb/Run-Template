@@ -1,30 +1,32 @@
 apiVersion: app.claw.cloud/v1
 kind: Template
 metadata:
-  name: vaultwarden
+  name: memos
 spec:
-  title: 'Vaultwarden'
+  title: 'memos'
   type: official
   author: ClawCloud Run
   author_id: 180503656
   date: 2025-04-17
-  url: 'https://github.com/dani-garcia/vaultwarden'
-  gitRepo: 'https://github.com/dani-garcia/vaultwarden'
-  description: 'Alternative implementation of the Bitwarden server API written in Rust and compatible with upstream Bitwarden clients*, perfect for self-hosted deployment where running the official resource-heavy service might not be ideal.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/vaultwarden/README.md'
-  icon: 'https://raw.githubusercontent.com/dani-garcia/vaultwarden/main/resources/vaultwarden-icon.svg'
+  url: 'https://github.com/usememos/memos'
+  gitRepo: 'https://github.com/usememos/memos'
+  description: 'A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/Memos/README.md'
+  icon: 'https://raw.githubusercontent.com/usememos/memos/main/web/public/logo.webp'
   templateType: inline
-  categories:
-    - tool
   defaults:
     app_host:
-      # number or string.
       type: string
       value: ${{ random(8) }}
     app_name:
       type: string
-      value: vaultwarden-${{ random(8) }}
+      value: memos-${{ random(8) }}
   inputs:
+    memos_storage:
+        description: "Storage size for memos in Gi"
+        type: number
+        default: "5"
+        required: true
 
 ---
 apiVersion: apps/v1
@@ -32,7 +34,7 @@ kind: StatefulSet
 metadata:
   name: ${{ defaults.app_name }}
   annotations:
-    originImageName: vaultwarden/server:latest
+    originImageName: ghcr.io/usememos/memos:latest
     deploy.run.claw.cloud/minReplicas: '1'
     deploy.run.claw.cloud/maxReplicas: '1'
   labels:
@@ -55,36 +57,40 @@ spec:
       automountServiceAccountToken: false
       containers:
         - name: ${{ defaults.app_name }}
-          image: vaultwarden/server:latest
-          env: []
+          image: ghcr.io/usememos/memos:latest
+          env:
+            - name: MEMOS_PORT
+              value: "5230"
+            - name: TZ
+              value: Asia/Shanghai
           resources:
             requests:
-              cpu: 20m
+              cpu: 50m
               memory: 25Mi
             limits:
               cpu: 200m
-              memory: 128Mi
+              memory: 256Mi
           command: []
           args: []
           ports:
-            - containerPort: 80
+            - containerPort: 5230
           imagePullPolicy: IfNotPresent
           volumeMounts:
             - name: vn-data
-              mountPath: /data
+              mountPath: /var/opt/memos
       volumes: []
   volumeClaimTemplates:
     - metadata:
         annotations:
-          path: /data
-          value: '1'
+          path: /var/opt/memos
+          value: "${{ inputs.memos_storage }} "
         name: vn-data
       spec:
         accessModes:
           - ReadWriteOnce
         resources:
           requests:
-            storage: 1Gi
+            storage: ${{ inputs.memos_storage }}Gi
 
 ---
 apiVersion: v1
@@ -95,7 +101,7 @@ metadata:
     run.claw.cloud/app-deploy-manager: ${{ defaults.app_name }}
 spec:
   ports:
-    - port: 80
+    - port: 5230
   selector:
     app: ${{ defaults.app_name }}
 
@@ -134,7 +140,7 @@ spec:
               service:
                 name: ${{ defaults.app_name }}
                 port:
-                  number: 80
+                  number: 5230
   tls:
     - hosts:
         - ${{ defaults.app_host }}.${{ CLAWCLOUD_CLOUD_DOMAIN }}
