@@ -15,7 +15,7 @@ spec:
   icon: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/php83/logo.png'
   templateType: inline
   categories:
-    - language
+    - Language
   defaults:
     app_host:
       # number or string..
