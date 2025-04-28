@@ -4,7 +4,7 @@ metadata:
   name: php83
 spec:
   title: 'PHP8.3'
-  type: official
+  type: community
   author: qooim
   author_id: 208918939
   date: 2025-04-27
