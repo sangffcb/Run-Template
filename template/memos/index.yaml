@@ -11,7 +11,7 @@ spec:
   url: 'https://github.com/usememos/memos'
   gitRepo: 'https://github.com/usememos/memos'
   description: 'A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/Memos/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/memos/README.md'
   icon: 'https://raw.githubusercontent.com/usememos/memos/main/web/public/logo.webp'
   templateType: inline
   defaults:
