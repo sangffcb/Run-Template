@@ -27,7 +27,7 @@ App Name
 
 ## Template Creation Guideline
 
-- **Application Template File**: Refer to the sample file [template-example.yaml](./template-example.yaml) to create your application template.
+- **Application Template File**: Refer to the sample file [template-example.yaml](./template-example.yaml) to create your application template, and test your template in App Store -> My Apps -> Debugging.
 - **Readme File and Screenshots**: Ensure the Readme file and screenshots prominently showcase your application's core functions and key features.
 
 ## Template Submission
