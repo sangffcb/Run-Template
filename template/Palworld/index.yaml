@@ -3,7 +3,7 @@ kind: Template
 metadata:
   name: palworld
 spec:
-  title: 'Palworld Dedicated Server'
+  title: 'Palworld'
   type: community
   author: yxchen1119
   author_id: 52694042
