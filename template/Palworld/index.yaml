@@ -11,8 +11,8 @@ spec:
   url: 'https://github.com/thijsvanloef/palworld-server-docker'
   gitRepo: 'https://github.com/thijsvanloef/palworld-server-docker'
   description: 'Palworld Dedicated Server'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/palworld/README.md'
-  icon: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/palworld/logo.jpg'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/Palworld/README.md'
+  icon: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/Palworld/logo.jpg'
   templateType: inline
   locale: en
   categories:

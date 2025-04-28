@@ -11,8 +11,8 @@ spec:
   url: 'https://php.net/'
   gitRepo: ''
   description: 'PHP 8.1 is a powerful server-side scripting language featuring JIT compilation, enhanced type safety, fibers for cooperative multitasking, and performance improvements for modern web development.'
-  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/php83/README.md'
-  icon: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/php83/logo.png'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/php81/README.md'
+  icon: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/php81/logo.png'
   templateType: inline
   categories:
     - Language
