@@ -4,7 +4,7 @@ metadata:
   name: postiz
 spec:
   title: 'Postiz'
-  type: official
+  type: community
   author: Emily Johnson
   author_id: 61506351
   date: 2025-05-06
