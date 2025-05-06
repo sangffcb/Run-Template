@@ -4,10 +4,6 @@ metadata:
   name: ghost
 spec:
   title: 'Ghost'
-  type: community
-  author: geekpo
-  author_id: 143733269
-  date: 2025-05-03
   url: 'https://ghost.org/'
   gitRepo: 'https://github.com/TryGhost/Ghost/'
   description: 'Ghost is an open-source platform designed for professional publishing, allowing you to create and manage high-quality blogs and websites easily and efficiently.'
