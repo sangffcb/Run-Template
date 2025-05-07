@@ -65,11 +65,11 @@ spec:
               value: "1000"
           resources:
             requests:
-              cpu: 100m
-              memory: 102Mi
+              cpu: 50m
+              memory: 64Mi
             limits:
-              cpu: 1000m
-              memory: 1024Mi
+              cpu: 500m
+              memory: 512Mi
           command: []
           args: []
           ports:
