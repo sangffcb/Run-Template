@@ -12,7 +12,7 @@ spec:
   gitRepo: 'https://github.com/gitroomhq/postiz-app'
   description: 'Postiz is an open-source, AI-powered platform that lets you plan, create, and publish multi-channel social-media content from one collaborative dashboard.'
   readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/postiz/README.md'
-  icon: 'https://raw.githubusercontent.com/appsmithorg/postiz/release/static/logo.png'
+  icon: 'https://github.com/ClawCloud/Run-Template/blob/main/template/postiz/logo.png'
   templateType: inline
   categories:
     - low-code
