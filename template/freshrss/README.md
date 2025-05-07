@@ -1,93 +1,93 @@
-# FreshRSS 自托管 RSS 阅读器
+# FreshRSS Self-hosted RSS Reader
 
-## 简介
+## Introduction
 
-FreshRSS 是一款自托管的、强大且易用的 RSS 阅读器，允许您轻松跟踪自己喜爱的网站更新。它提供了干净整洁的界面，支持多用户，并具有强大的过滤功能。这个模板帮助您在 ClawCloud 平台上一键部署 FreshRSS。
+FreshRSS is a powerful, easy-to-use self-hosted RSS reader that allows you to effortlessly keep track of updates from your favorite websites. It features a clean and tidy interface, supports multiple users, and offers robust filtering capabilities. This template enables you to deploy FreshRSS on the ClawCloud platform with a single click.
 
-## 特性
+## Features
 
-- 🔄 轻松导入/导出 OPML 订阅源文件
-- 🌐 支持多语言界面
-- 👥 多用户支持
-- 🔍 强大的文章过滤和搜索功能
-- 📱 响应式设计，适配移动设备
-- 🔌 可扩展的插件系统
-- 🔒 安全可靠，保护您的阅读隐私
+- 🔄 Easily import/export OPML subscription files
+- 🌐 Multi-language interface support
+- 👥 Multi-user capability
+- 🔍 Powerful article filtering and search functions
+- 📱 Responsive design suitable for mobile devices
+- 🔌 Extensible plugin system
+- 🔒 Secure and reliable, safeguarding your reading privacy
 
-## 部署说明
+## Deployment Instructions
 
-### 资源需求
+### Resource Requirements
 
-- CPU: 最低 100m，最高 1000m
-- 内存: 最低 102Mi，最高 1024Mi
-- 存储: 默认 1Gi（可在部署时自定义）
+- CPU: Minimum 100m, Maximum 1000m
+- Memory: Minimum 102Mi, Maximum 1024Mi
+- Storage: Default 1Gi (customizable during deployment)
 
-### 配置参数
+### Configuration Parameters
 
-部署时可以自定义以下参数：
+You can customize the following parameter during deployment:
 
-- **volume_size**: 数据存储大小（默认 1Gi）
+- **volume_size**: Data storage size (default 1Gi)
 
-### 环境变量
+### Environment Variables
 
-模板已预设以下环境变量：
+The template comes with the following predefined environment variables:
 
-- `TZ`: Asia/Shanghai - 设置时区
-- `PUID`: 1000 - 进程用户 ID
-- `PGID`: 1000 - 进程组 ID
+- `TZ`: Asia/Shanghai - Set timezone
+- `PUID`: 1000 - Process user ID
+- `PGID`: 1000 - Process group ID
 
-### 存储卷
+### Storage Volumes
 
-模板创建以下存储卷：
+The template creates the following storage volumes:
 
-- `/config`: 主要配置数据存储
-- `/app/www/extensions`: FreshRSS 扩展插件存储
+- `/config`: Main configuration data storage
+- `/app/www/extensions`: FreshRSS extension plugins storage
 
-### 网络配置
+### Network Configuration
 
-- 对外暴露端口：80
-- DNS 服务器：8.8.8.8 和 8.8.4.4
+- Publicly exposed port: 80
+- DNS servers: 8.8.8.8 and 8.8.4.4
 
-## 首次使用
+## First-time Use
 
-1. 部署成功后，访问提供的 URL 地址
-2. 按照初始化向导设置管理员账户和基本配置
-3. 添加您喜欢的 RSS 订阅源
-4. 开始享受您的个人新闻阅读体验！
+1. After successful deployment, visit the provided URL
+2. Follow the setup wizard to configure the admin account and basic settings
+3. Add your favorite RSS feeds
+4. Start enjoying your personalized news reading experience!
 
-## 添加 RSS 订阅源
+## Adding RSS Feeds
 
-1. 登录后，点击左侧菜单中的"订阅源管理"
-2. 点击"新订阅源"按钮
-3. 输入 RSS 订阅源的 URL 地址
-4. 可选择为订阅源分配分类
-5. 点击"订阅"完成添加
+1. After logging in, click "Feed Management" in the left menu
+2. Click the "New Feed" button
+3. Enter the URL of the RSS feed
+4. Optionally assign a category to the feed
+5. Click "Subscribe" to complete the addition
 
-## 使用技巧
+## Usage Tips
 
-- 使用键盘快捷键（j/k）浏览文章
-- 创建筛选器避免信息过载
-- 利用标签系统组织和分类文章
-- 自定义阅读视图（紧凑、正常或阅读模式）
-- 尝试安装社区开发的扩展增强功能
+- Use keyboard shortcuts (j/k) to navigate through articles
+- Create filters to avoid information overload
+- Use the tag system to organize and categorize articles
+- Customize your reading view (compact, standard, or reading mode)
+- Try installing community-developed extensions for enhanced functionality
 
-## 常见问题
+## Frequently Asked Questions
 
-**Q: 如何更新 FreshRSS?**  
-A: 当新版本发布时，重新部署此模板即可获得最新版本。您的数据和配置会被保留。
+**Q: How do I update FreshRSS?**  
+A: When a new version is released, redeploy this template to get the latest version. Your data and configurations will be preserved.
 
-**Q: 如何备份我的数据?**  
-A: FreshRSS 的所有数据都保存在 `/config` 目录，确保此目录定期备份即可。
+**Q: How do I back up my data?**  
+A: All FreshRSS data is stored in the `/config` directory. Ensure this directory is backed up regularly.
 
-**Q: 如何添加扩展插件?**  
-A: 登录管理员账户，导航至"扩展管理"，您可以安装官方或第三方扩展。
+**Q: How do I add extension plugins?**  
+A: Log in as an admin and navigate to "Extension Management" to install official or third-party extensions.
 
-## 支持与问题反馈
+## Support and Feedback
 
-- 官方文档：[FreshRSS 文档](https://freshrss.github.io/FreshRSS/en/)
-- 项目仓库：[GitHub](https://github.com/FreshRSS/FreshRSS)
-- 问题反馈：[GitHub Issues](https://github.com/FreshRSS/FreshRSS/issues)
+- Official Documentation: [FreshRSS Documentation](https://freshrss.github.io/FreshRSS/en/)
+- Project Repository: [GitHub](https://github.com/FreshRSS/FreshRSS)
+- Feedback: [GitHub Issues](https://github.com/FreshRSS/FreshRSS/issues)
 
 ---
 
-祝您使用愉快！
+Enjoy your experience!
