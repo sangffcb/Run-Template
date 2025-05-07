@@ -6,14 +6,11 @@ This repository serves as the official template repository for **ClawCloud Run**
 
 The template structure is organized as per the following directory tree:
 
-- **Application Template File** (YAML format): 
-  Defines the Kubernetes and application resources.
+- **Application Template File** (YAML format): Defines the Kubernetes and application resources.
   
-- **Application README File** (Markdown format):
-  Introduces the application and lists key features.
+- **Application README File** (Markdown format): Introduces the application and lists key features.
   
-- **Application Screenshots** (PNG format):
-  Displays the primary interface of the application.
+- **Application Screenshots** (PNG format): Displays the primary interface of the application.
 
 ```
 App Name
@@ -28,6 +25,7 @@ App Name
 ## Template Creation Guideline
 
 - **Application Template File**: Refer to the sample file [template-example.yaml](./template-example.yaml) to create your application template, and test your template in App Store -> My Apps -> Debugging.
+
 - **Readme File and Screenshots**: Ensure the Readme file and screenshots prominently showcase your application's core functions and key features.
 
 ## Template Submission
@@ -47,5 +45,9 @@ If you would like to contribute your application template to ClawCloud Run offic
 - You can also add a ClawCloud Run deploy button to your GitHub README or application docs, enabling users to deploy your application with one click.
 
 ![](./Run-on-ClawCloud.svg)
+
+## Contributors
+
+[![](https://contrib.rocks/image?repo=ClawCloud/Run-Template)](https://github.com/ClawCloud/Run-Template/graphs/contributors)
 
 For additional collaboration opportunities or customized partnership inquiries, please contact our support team at `support@run.claw.cloud`.
