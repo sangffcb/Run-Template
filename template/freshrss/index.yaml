@@ -3,16 +3,16 @@ kind: Template
 metadata:
   name: ${{ defaults.app_name }}
 spec:
-  title: FreshRSS                            # App Name
-  type: official                             # Template type: official, developer, community
-  author: ClawCloud Run                      # Template author
-  author_id: 180503656                       # Template author GitHub ID
-  date: 2025-04-17                           # Template submit date
-  url: https://freshrss.org                  # App official website
-  gitRepo: https://github.com/FreshRSS/FreshRSS  # App GitHub url
-  description: FreshRSS是一个自托管的RSS订阅阅读器  # App description
-  readme: https://github.com/FreshRSS/FreshRSS/blob/edge/README.md  # App Readme url
-  icon: https://freshrss.org/favicon.ico     # App icon url
+  title: 'FreshRSS'                            # App Name
+  type: community                             # Template type: official, developer, community
+  author: zouxingyuks                        # Template author
+  author_id: 102451468                       # Template author GitHub ID
+  date: 2025-05-07                           # Template submit date
+  url: 'https://freshrss.org'                  # App official website
+  gitRepo: 'https://github.com/FreshRSS/FreshRSS'  # App GitHub url
+  description: 'FreshRSS is a self-hosted RSS feed reader'  # App description
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/freshrss/README.md'  # App Readme url
+  icon: 'https://avatars.githubusercontent.com/u/9414285'     # App icon url
   templateType: inline
   defaults:
     app_host:
