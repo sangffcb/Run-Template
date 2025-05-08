@@ -55,11 +55,11 @@ spec:
           env: []
           resources:
             requests:
+              cpu: 10m
+              memory: 12Mi
+            limits:
               cpu: 100m
               memory: 128Mi
-            limits:
-              cpu: 1000m
-              memory: 1024Mi
           ports:
             - containerPort: 8888
           imagePullPolicy: IfNotPresent
