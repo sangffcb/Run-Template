@@ -10,7 +10,7 @@ spec:
   date: 2025-05-08
   url: 'https://www.sealdice.com'
   gitRepo: 'https://github.com/sealdice'
-  description: 'SealDice is a powerful, cross-platform random number generator bot tailored for Tabletop Role-Playing Games (TRPGs). Designed to streamline gameplay for both players and game masters, SealDice integrates seamlessly with QQ (Onebot/Official), Discord, Telegram, Slack, Minecraft, DingTalk, KOOK, and DoDo, delivering fast, fair, and flexible dice-rolling mechanics across all your favorite platforms.'
+  description: '​SealDice​​ is a cross-platform TRPG dice bot for instant messaging apps (QQ, Discord, Telegram, Slack, and more), offering fast, fair, and flexible random rolls.'
   readme: 'https://docs.sealdice.com'
   icon: 'https://docs.sealdice.com/images/sealdice.svg'
   templateType: inline
