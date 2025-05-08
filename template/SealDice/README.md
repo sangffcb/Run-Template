@@ -26,3 +26,5 @@ DM & KP​​ managing cross-platform campaigns.
 ​​Launch Your Adventure Today!​​
 
 Add ​​SealDice​​ to your platform and let fate decide—no more arguments over dice fairness, just pure TRPG fun! 
+
+> The interface is only available in Chinese. You may translate reply texts independently if needed.
