@@ -66,8 +66,8 @@ spec:
               cpu: 100m
               memory: 102Mi
             limits:
-              cpu: 1000m
-              memory: 1024Mi
+              cpu: 500m
+              memory: 256Mi
           command: []
           args: []
           ports:
@@ -95,7 +95,7 @@ spec:
         annotations:
           path: /sealdice/backup
           value: '1'
-        name: vn-data
+        name: vn-backup
       spec:
         accessModes:
           - ReadWriteOnce
