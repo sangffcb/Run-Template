@@ -11,7 +11,7 @@ Designed to streamline gameplay for both players and game masters, SealDice inte
 
 Supported Platforms​​:Deploy SealDice effortlessly on QQ (Onebot/Official), Discord, Telegram, Slack, Minecraft, DingTalk, KOOK, and DoDo —perfect for TRPG groups using diverse communication tools.
 
-## RPG-Focused Tools​​
+## TRPG-Focused Tools​​
 
 ​​Rulebook Shortcuts​​: Pre-configured commands for popular systems like D&D 5E, Call of Cthulhu 7th.
 
