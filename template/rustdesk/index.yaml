@@ -108,7 +108,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: ${{ defaults.app_name }}
+  name: ${{ defaults.app_name }}-nodeport
   labels:
     run.claw.cloud/app-deploy-manager: ${{ defaults.app_name }}
 spec:
