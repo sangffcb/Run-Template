@@ -1,7 +1,7 @@
 apiVersion: app.claw.cloud/v1
 kind: Template
 metadata:
-  name: ${{ defaults.app_name }}
+  name: freshrss
 spec:
   title: 'FreshRSS'                            # App Name
   type: community                             # Template type: official, developer, community
