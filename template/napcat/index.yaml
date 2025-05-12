@@ -11,7 +11,7 @@ spec:
   url: 'https://napcat.napneko.icu/'
   gitRepo: 'https://github.com/NapNeko/NapCatQQ'
   description: 'Modern protocol-side framework implemented based on NTQQ'
-  readme: 'https://napcat.napneko.icu/guide/napcat'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/napcat/README.md'
   icon: 'https://raw.githubusercontent.com/NapNeko/NapCatQQ/refs/heads/main/external/logo.png'
   templateType: inline
   categories:
