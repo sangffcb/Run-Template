@@ -11,7 +11,7 @@ spec:
   url: 'https://www.sealdice.com'
   gitRepo: 'https://github.com/sealdice'
   description: '​SealDice​​ is a cross-platform TRPG dice bot for instant messaging apps (QQ, Discord, Telegram, Slack, and more), offering fast, fair, and flexible random rolls.'
-  readme: 'https://docs.sealdice.com'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/sealdice/README.md'
   icon: 'https://docs.sealdice.com/images/sealdice.svg'
   templateType: inline
   categories:
