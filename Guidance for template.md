@@ -305,8 +305,8 @@ Any characters enclosed in ${{ }} are variables, there are 3 types of variables:
 ### functions
 - `${{ random(length) }}`: It will generate a random string of length.
 - `${{ base64(expression) }}`: It will encode the expression into base64 format.
-    eg: ${{ base64('hello world') }} refers to aGVsbG8gd29ybGQ=.
-    You can also specify variables, like ${{ base64(inputs.secret) }}
+    eg: `${{ base64('hello world') }}` refers to `aGVsbG8gd29ybGQ=`.
+    You can also specify variables, like `${{ base64(inputs.secret) }}`
 
 ### defaults
 variables like `${{defualts.x}}` are defualt values  
