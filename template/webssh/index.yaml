@@ -12,7 +12,10 @@ spec:
   gitRepo: 'https://github.com/cmliu/webssh'
   description: 'Web-based SSH client that lets you access and manage servers directly from your browser without installing any software.'
   readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/webssh/README.md'
-  icon: 'https://raw.githubusercontent.com/cmliu/webssh/refs/heads/master/webssh/static/img/favicon-32.png'
+  images:
+    - 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/webssh/Picture1.png'
+    - 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/webssh/Picture2.png'
+  icon: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/webssh/logo.png'
   templateType: inline
   categories:
     - tool
