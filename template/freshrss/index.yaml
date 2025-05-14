@@ -22,18 +22,13 @@ spec:
       type: string
       value: freshrss-${{ random(8) }}
   inputs:
-    volume_size:
-      description: 'save data size (Gi)'
-      type: string
-      default: '1'
-      required: false
 ---
 apiVersion: apps/v1
 kind: StatefulSet
 metadata:
   name: ${{ defaults.app_name }}
   annotations:
-    originImageName: linuxserver/freshrss:latest  # App docker image
+    originImageName: freshrss/freshrss:latest  # App docker image
     deploy.run.claw.cloud/minReplicas: '1'
     deploy.run.claw.cloud/maxReplicas: '1'
   labels:
@@ -80,17 +75,7 @@ spec:
               mountPath: /config
             - name: vn-freshrss-extensions
               mountPath: /app/www/extensions
-          securityContext:
-            seccompProfile:
-              type: Unconfined
-          dnsConfig:
-            nameservers:
-              - 8.8.8.8
-              - 8.8.4.4
-      volumes:
-        - name: vn-freshrss-extensions
-          persistentVolumeClaim:
-            claimName: freshrss-extensions-pvc
+      volumes: []
   volumeClaimTemplates:
     - metadata:
         annotations:
@@ -102,7 +87,18 @@ spec:
           - ReadWriteOnce
         resources:
           requests:
-            storage: ${{ inputs.volume_size }}Gi
+            storage: 1Gi
+    - metadata:
+        annotations:
+          path: /app/www/extensions
+          value: '1'
+        name: vn-freshrss-extensions
+      spec:
+        accessModes:
+          - ReadWriteOnce
+        resources:
+          requests:
+            storage: 1Gi
 
 ---
 apiVersion: v1
