@@ -15,7 +15,7 @@ spec:
   icon: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/answer/answer.png'
   templateType: inline
   categories:
-    - community
+    - Forum
   defaults:
     app_host:
       # number or string..
