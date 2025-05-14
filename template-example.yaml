@@ -1,7 +1,7 @@
 apiVersion: app.claw.cloud/v1
 kind: Template
 metadata:
-  name: ${{ defaults.app_name }}
+  name:                             # App Name (lowercase)
 spec:
   title:                            # App Name
   type: official                    # Template type: official, developer, community
