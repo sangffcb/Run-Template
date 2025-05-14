@@ -23,7 +23,7 @@ App Name
 ```
 
 ## Template Creation Guideline
-- **Guidance**: Please follow [Guidance For Temple.md](Guidance-for-template.md) as a tutorial.
+- **Guidance**: Please follow [template-guidance.md](./template-guidance.md) as a tutorial.
 
 - **Application Template File**: Refer to the sample file [template-example.yaml](./template-example.yaml) to create your application template, and test your template in App Store -> My Apps -> Debugging.
 

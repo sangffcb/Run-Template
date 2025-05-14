@@ -1,4 +1,4 @@
-# Guidance For Template
+# Template Guidance
 This guidance is aiming to clarify how to create and upload a self-defined template for any application you want.
 Taking WordPress as an example here to demonstrate the full process. 
 This example assumes that you already have a certain understanding of Kubernetes resource files, and will only explains some parameters unique to the template. 
