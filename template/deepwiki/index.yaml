@@ -1,0 +1,210 @@
+apiVersion: app.claw.cloud/v1
+kind: Template
+metadata:
+  name: deepwiki
+spec:
+  title: 'DeepWiki'
+  type: official
+  author: ClawCloud Run
+  author_id: 180503656
+  date: 2025-05-16
+  url: 'https://github.com/yourorg/deepwiki'
+  gitRepo: 'https://github.com/yourorg/deepwiki'
+  description: 'DeepWiki: an embedding-backed wiki powered by Node.js (API) and Next.js (frontend).'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/deepwiki/README.md'
+  icon: 'https://raw.githubusercontent.com/yourorg/deepwiki/main/logo.png'
+  templateType: inline
+  locale: en
+  categories:
+    - ai
+  defaults:
+    app_host:
+      type: string
+      value: ${{ random(8) }}
+    app_name:
+      type: string
+      value: deepwiki-${{ random(8) }}
+  inputs:
+    PORT:
+      description: 'API port inside container'
+      type: string
+      default: "8001"
+      required: true
+    GOOGLE_API_KEY:
+      description: 'Google API key for embedding'
+      type: string
+      default: ''
+      required: true
+    OPENAI_API_KEY:
+      description: 'OpenAI API key for embedding'
+      type: string
+      default: ''
+      required: true
+
+---
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: ${{ defaults.app_name }}
+  annotations:
+    originImageName: faneccr/deepwiki
+    deploy.run.claw.cloud/minReplicas: '1'
+    deploy.run.claw.cloud/maxReplicas: '1'
+  labels:
+    run.claw.cloud/app-deploy-manager: ${{ defaults.app_name }}
+    app: ${{ defaults.app_name }}
+spec:
+  replicas: 1
+  revisionHistoryLimit: 1
+  minReadySeconds: 10
+  serviceName: ${{ defaults.app_name }}
+  selector:
+    matchLabels:
+      app: ${{ defaults.app_name }}
+  template:
+    metadata:
+      labels:
+        app: ${{ defaults.app_name }}
+    spec:
+      terminationGracePeriodSeconds: 10
+      automountServiceAccountToken: false
+      containers:
+        - name: ${{ defaults.app_name }}
+          image: faneccr/deepwiki
+          env:
+            - name: PORT
+              value: ${{ inputs.PORT }}
+            - name: NODE_ENV
+              value: production
+            - name: SERVER_BASE_URL
+              value: http://${{ defaults.app_host }}:${{ inputs.PORT }}
+            - name: GOOGLE_API_KEY
+              value: ${{ inputs.GOOGLE_API_KEY }}
+            - name: OPENAI_API_KEY
+              value: ${{ inputs.OPENAI_API_KEY }}
+          resources:
+            requests:
+              cpu: 100m
+              memory: 256Mi
+            limits:
+              cpu: 500m
+              memory: 1Gi
+          ports:
+            - containerPort: ${{ inputs.PORT }}
+              name: api
+            - containerPort: 3000
+              name: frontend
+          imagePullPolicy: IfNotPresent
+          volumeMounts:
+            - name: adalflow-data
+              mountPath: /root/.adalflow
+      volumes: []
+  volumeClaimTemplates:
+    - metadata:
+        name: adalflow-data
+        annotations:
+          path: /root/.adalflow
+          value: '1'
+      spec:
+        accessModes: [ "ReadWriteOnce" ]
+        resources:
+          requests:
+            storage: 1Gi
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: ${{ defaults.app_name }}
+  labels:
+    run.claw.cloud/app-deploy-manager: ${{ defaults.app_name }}
+spec:
+  ports:
+    - name: api
+      port: ${{ inputs.PORT }}
+      targetPort: api
+    - name: frontend
+      port: 3000
+      targetPort: frontend
+  selector:
+    app: ${{ defaults.app_name }}
+
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: ${{ defaults.app_name }}
+  labels:
+    run.claw.cloud/app-deploy-manager: ${{ defaults.app_name }}
+    run.claw.cloud/app-deploy-manager-domain: ${{ defaults.app_host }}
+  annotations:
+    kubernetes.io/ingress.class: nginx
+    nginx.ingress.kubernetes.io/ssl-redirect: 'true'
+    nginx.ingress.kubernetes.io/backend-protocol: HTTP
+    nginx.ingress.kubernetes.io/proxy-body-size: 32m
+spec:
+  rules:
+    - host: ${{ defaults.app_host }}.${{ CLAWCLOUD_CLOUD_DOMAIN }}
+      http:
+        paths:
+          - pathType: Prefix
+            path: /
+            backend:
+              service:
+                name: ${{ defaults.app_name }}
+                port:
+                  number: 3000
+  tls:
+    - hosts:
+        - ${{ defaults.app_host }}.${{ CLAWCLOUD_CLOUD_DOMAIN }}
+      secretName: ${{ CLAWCLOUD_CERT_SECRET_NAME }}
+
+---
+apiVersion: app.claw.cloud/v1
+kind: App
+metadata:
+  name: ${{ defaults.app_name }}
+  labels:
+    run.claw.cloud/app-deploy-manager: ${{ defaults.app_name }}
+spec:
+  data:
+    url: https://${{ defaults.app_host }}.${{ CLAWCLOUD_CLOUD_DOMAIN }}
+  displayType: normal
+  icon: "https://raw.githubusercontent.com/yourorg/deepwiki/main/logo.png"
+  name: DeepWiki
+  type: link
+
+---
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: ${{ defaults.app_name }}
+
+---
+apiVersion: rbac.authorization.k8s.io/v1
+kind: Role
+metadata:
+  name: ${{ defaults.app_name }}
+rules:
+  - apiGroups: ["apps"]
+    resources: ["statefulsets"]
+    verbs: ["get", "list", "watch"]
+  - apiGroups: [""]
+    resources: ["pods"]
+    verbs: ["get", "list", "watch"]
+  - apiGroups: [""]
+    resources: ["pods/exec"]
+    verbs: ["create"]
+
+---
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  name: ${{ defaults.app_name }}
+roleRef:
+  apiGroup: rbac.authorization.k8s.io
+  kind: Role
+  name: ${{ defaults.app_name }}
+subjects:
+  - kind: ServiceAccount
+    name: ${{ defaults.app_name }}
