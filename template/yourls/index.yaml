@@ -14,7 +14,7 @@ spec:
   readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/yourls/README.md'
   icon: 'https://yourls.org/assets/images/favicon.svg'
   templateType: inline
-  locale: en'
+  locale: en
   categories:
     - tool
   defaults:
