@@ -12,7 +12,7 @@ spec:
   gitRepo: 'https://github.com/shlinkio/shlink'
   description: 'A self-hosted URL shortener with QR code generation, analytics, and REST API.'
   readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/shlink/README.md'
-  icon: 'https://raw.githubusercontent.com/shlinkio/shlink/main/assets/icon.svg'
+  icon: 'https://shlink.io/images/shlink-logo-blue.svg'
   templateType: inline
   locale: en
   categories:
