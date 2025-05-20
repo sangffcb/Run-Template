@@ -12,7 +12,7 @@ spec:
   gitRepo: 'https://github.com/yourorg/deepwiki'
   description: 'DeepWiki: an embedding-backed wiki powered by Node.js (API) and Next.js (frontend).'
   readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/deepwiki/README.md'
-  icon: 'https://github.com/AsyncFuncAI/deepwiki-open/blob/main/screenshots/Deepwiki.png?raw=true'
+  icon: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/deepwiki/deepwiki.png'
   templateType: inline
   locale: en
   categories:
