@@ -9,7 +9,7 @@ spec:
   url: 'https://nextcloud.com/'
   gitRepo: 'https://github.com/nextcloud/docker'
   author: 'bxy4543'
-  readme: 'https://raw.githubusercontent.com/nextcloud/docker/master/README.md'
+  readme: 'https://raw.githubusercontent.com/ClawCloud/Run-Template/refs/heads/main/template/nextcloud/README.md'
   icon: 'https://avatars.githubusercontent.com/u/19211038?s=48&v=4'
   templateType: inline
   locale: en
