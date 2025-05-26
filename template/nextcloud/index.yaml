@@ -7,7 +7,7 @@ spec:
   description: Nextcloud is an open-source forum software.
   url: 'https://nextcloud.com/'
   gitRepo: 'https://github.com/nextcloud/docker'
-  author: 'sealos'
+  author: 'bxy4543'
   readme: 'https://raw.githubusercontent.com/nextcloud/docker/master/README.md'
   icon: 'https://avatars.githubusercontent.com/u/19211038?s=48&v=4'
   templateType: inline
